@@ -1,0 +1,94 @@
+{
+  "uid" : "fc3a4f55ee731ffb",
+  "name" : "TestMessageCenter.test_21",
+  "fullName" : "test_wyz.TestMessageCenter.test_21",
+  "historyId" : "2ebe69ee7a963d37ce67ed739292e6b1",
+  "time" : {
+    "start" : 1545212989025,
+    "stop" : 1545212989281,
+    "duration" : 256
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '退订成功' == '订阅成功'\n  - 退订成功\n  ? -\n  + 订阅成功\n  ?  +",
+  "statusTrace" : "self = <test_wyz.TestMessageCenter object at 0x00000000045543C8>\n\n    @pytest.mark.run(order=21)\n    @allure.step(title='保险服务开关打开')\n    def test_21(self):\n        global driver\n        # 点击保险服务进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[7]/div/label/i\").click()\n        bxfwmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"保险服务\" + bxfwmsg1)\n>       assert bxfwmsg1 == \"订阅成功\"\nE       AssertionError: assert '退订成功' == '订阅成功'\nE         - 退订成功\nE         ? -\nE         + 订阅成功\nE         ?  +\n\ntest_wyz.py:280: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert '退订成功' == '订阅成功'\n  - 退订成功\n  ? -\n  + 订阅成功\n  ?  +",
+    "statusTrace" : "self = <test_wyz.TestMessageCenter object at 0x00000000045543C8>\n\n    @pytest.mark.run(order=21)\n    @allure.step(title='保险服务开关打开')\n    def test_21(self):\n        global driver\n        # 点击保险服务进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[7]/div/label/i\").click()\n        bxfwmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"保险服务\" + bxfwmsg1)\n>       assert bxfwmsg1 == \"订阅成功\"\nE       AssertionError: assert '退订成功' == '订阅成功'\nE         - 退订成功\nE         ? -\nE         + 订阅成功\nE         ?  +\n\ntest_wyz.py:280: AssertionError",
+    "steps" : [ {
+      "name" : "保险服务开关打开",
+      "time" : {
+        "start" : 1545212989027,
+        "stop" : 1545212989156,
+        "duration" : 129
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test_wyz.TestMessageCenter object at 0x00000000045543C8>\n\n    @pytest.mark.run(order=21)\n    @allure.step(title='保险服务开关打开')\n    def test_21(self):\n        global driver\n        # 点击保险服务进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[7]/div/label/i\").click()\n        bxfwmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"保险服务\" + bxfwmsg1)\n>       assert bxfwmsg1 == \"订阅成功\"\nE       AssertionError: assert '退订成功' == '订阅成功'\nE         - 退订成功\nE         ? -\nE         + 订阅成功\nE         ?  +\n\ntest_wyz.py:280: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mobile-10-24-51"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessageCenter.test_21"
+  }, {
+    "name" : "package",
+    "value" : "test_wyz"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fc3a4f55ee731ffb.json",
+  "parameterValues" : [ ]
+}

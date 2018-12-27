@@ -2,59 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f00391d-6241-49bf-bf42-5e2327fac6d6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Dict1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/For1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun4.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun5.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun6.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Fun7.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/If1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/List1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/String1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/Tuple1.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/easy/While1.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/canshu.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/easy/output.py" afterPath="$PROJECT_DIR$/easy/Output.py" />
-      <change beforePath="$PROJECT_DIR$/fenge.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/guanjianzicanshu.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jiefangcheng.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/kebiancanshu.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/learning.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/many.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/mingmingguanjianzi.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/moudle.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/qiuhe.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/shuru.py" afterPath="" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/viruser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asesome-python3-webapp/www/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asesome-python3-webapp/www/orm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/already/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/already/assistant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/already/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/assistant1130.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/test_wyz1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/test_wyzt3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autotestwyz/test_wyzt4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mine.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mine.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asesome-python3-webapp/www/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/asesome-python3-webapp/www/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Basic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Dict1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/For1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Fun7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/If1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/InputAndOutput.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/List1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/String1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Tuple1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/While1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git笔记.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mine$cfxfzz.coverage" NAME="cfxfzz Coverage Results" MODIFIED="1543565699704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cfxfzz" />
+    <SUITE FILE_PATH="coverage/mine$1130.coverage" NAME="1130 Coverage Results" MODIFIED="1544082447716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_wyz_TestMessageCenter.coverage" NAME="pytest for test_wyz.TestMessageCenter Coverage Results" MODIFIED="1545195947500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$test_2.coverage" NAME="test_2 Coverage Results" MODIFIED="1542609619094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_in_test_t1_py.coverage" NAME="pytest in test_t1.py Coverage Results" MODIFIED="1543834002790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1542609452645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$py_test_for_test_t2_TestV2exApiWithExpectation.coverage" NAME="py.test for test_t2.TestV2exApiWithExpectation Coverage Results" MODIFIED="1542609831098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_in_test_sele_py.coverage" NAME="pytest in test_sele.py Coverage Results" MODIFIED="1545124979802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1543833439928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_wyz_TestMessageCenter_test_5.coverage" NAME="pytest for test_wyz.TestMessageCenter.test_5 Coverage Results" MODIFIED="1545017562484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_in_test_wyz1_py.coverage" NAME="pytest in test_wyz1.py Coverage Results" MODIFIED="1545213364583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$assistant.coverage" NAME="assistant Coverage Results" MODIFIED="1545184385207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$TEST.coverage" NAME="TEST Coverage Results" MODIFIED="1545893244810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz/TEST" />
+    <SUITE FILE_PATH="coverage/mine$t1__1_.coverage" NAME="t1 (1) Coverage Results" MODIFIED="1542356187952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_in_test_wyz_py.coverage" NAME="pytest in test_wyz.py Coverage Results" MODIFIED="1545224356796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$py_test_in_test_t2_py.coverage" NAME="py.test in test_t2.py Coverage Results" MODIFIED="1542610409472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$wcfsds.coverage" NAME="wcfsds Coverage Results" MODIFIED="1545896525515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_wyz_TestMessageCenter_test_setBrower.coverage" NAME="pytest for test_wyz.TestMessageCenter.test_setBrower Coverage Results" MODIFIED="1545190408758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_wyz_TestMessageCenter_test_8.coverage" NAME="pytest for test_wyz.TestMessageCenter.test_8 Coverage Results" MODIFIED="1545038671923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_t1_TestAssistantSample_test_login.coverage" NAME="pytest for test_t1.TestAssistantSample.test_login Coverage Results" MODIFIED="1544082079713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$py_test_for_test_sele_TestBaiduSample_test_open.coverage" NAME="py.test for test_sele.TestBaiduSample.test_open Coverage Results" MODIFIED="1543565050879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$py_test_for_test_t2_TestV2exApiWithExpectation_test_node.coverage" NAME="py.test for test_t2.TestV2exApiWithExpectation.test_node Coverage Results" MODIFIED="1543564365320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_sele_TestBaiduSample_test_news.coverage" NAME="pytest for test_sele.TestBaiduSample.test_news Coverage Results" MODIFIED="1543832831366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$fsds.coverage" NAME="fsds Coverage Results" MODIFIED="1545895140996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz/TEST" />
+    <SUITE FILE_PATH="coverage/mine$pytest_for_test_wyz_TestMessageCenter_test_3.coverage" NAME="pytest for test_wyz.TestMessageCenter.test_3 Coverage Results" MODIFIED="1545017139209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$1116.coverage" NAME="1116 Coverage Results" MODIFIED="1542350991143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+    <SUITE FILE_PATH="coverage/mine$test_t.coverage" NAME="test_t Coverage Results" MODIFIED="1542610464817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/autotestwyz" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="356" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mine" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Fun6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/Fun6.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/autotestwyz/wcfsds.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fun7.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/Fun7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="600">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -68,20 +111,33 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>问财</find>
+      <find>TestBaiduSample</find>
+      <find>.get_attribute(&quot;innerText&quot;)</find>
+      <find>loadCookie</find>
+      <find>.text</find>
+      <find>time.sleep(2)</find>
+      <find>order</find>
+      <find>time.sleep(5)</find>
+      <find>//*[@id=\&quot;customSetColumn\&quot;]/div/ul/li[3]/div/label/i</find>
+      <find>time.sleep(10)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.text</replace>
+      <replace>.get_attribute(&quot;innerText&quot;)</replace>
+      <replace>time.sleep(5)</replace>
+      <replace>time.sleep(10)</replace>
+      <replace>time.sleep(2)</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/many.py" />
-        <option value="$PROJECT_DIR$/moudle.py" />
-        <option value="$PROJECT_DIR$/easy/firsttest.py" />
-        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/app.py" />
-        <option value="$PROJECT_DIR$/easy/first/1.py" />
-        <option value="$PROJECT_DIR$/easy/output.py" />
-        <option value="$PROJECT_DIR$/easy/2.py" />
-        <option value="$PROJECT_DIR$/easy/Basic.py" />
         <option value="$PROJECT_DIR$/easy/String.py" />
         <option value="$PROJECT_DIR$/easy/String1.py" />
         <option value="$PROJECT_DIR$/easy/List1.py" />
@@ -99,53 +155,57 @@
         <option value="$PROJECT_DIR$/easy/Fun5.py" />
         <option value="$PROJECT_DIR$/easy/Fun6.py" />
         <option value="$PROJECT_DIR$/easy/Fun7.py" />
+        <option value="$PROJECT_DIR$/easy/Fun8.py" />
+        <option value="$PROJECT_DIR$/easy/Fun9.py" />
+        <option value="$PROJECT_DIR$/easy/Fun10.py" />
+        <option value="$PROJECT_DIR$/easy/sys1.py" />
+        <option value="$PROJECT_DIR$/easy/1.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/app.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/app.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/orm1.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/orm.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/model.py" />
+        <option value="$PROJECT_DIR$/asesome-python3-webapp/www/models.py" />
+        <option value="$PROJECT_DIR$/Pc/52.py" />
+        <option value="$PROJECT_DIR$/Pc/521.py" />
+        <option value="$PROJECT_DIR$/Pc/test01.py" />
+        <option value="$PROJECT_DIR$/selenium/__init__.py" />
+        <option value="$PROJECT_DIR$/selenium1/__init__.py" />
+        <option value="$PROJECT_DIR$/s1/__init__.py" />
+        <option value="$PROJECT_DIR$/s1/t1.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/1116.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/t2.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_t.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_t2.py" />
+        <option value="$PROJECT_DIR$/cfxfzz/cfxfzz.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/assistant.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_sele.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/t1.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_t1.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/1130.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_wyz1.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test_wyz.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/TEST/TEST.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/TEST/fsds.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/test.py" />
+        <option value="$PROJECT_DIR$/autotestwyz/wcfsds.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="748" />
-    <option name="width" value="1171" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="602" />
+    <option name="y" value="5" />
+    <option name="width" value="1324" />
     <option name="height" value="1040" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-          <State>
-            <id>Python</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>PyStringFormatInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -156,24 +216,31 @@
             <path>
               <item name="mine" type="b2602c69:ProjectViewProjectNode" />
               <item name="mine" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="autotestwyz" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../deeptest" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wyz\study\mine\autotestwyz\already" />
       <recent name="D:\wyz\study\mine\easy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wyz\study\mine\autotestwyz\already" />
+      <recent name="D:\wyz\study\mine\autotestwyz\TEST" />
+      <recent name="D:\wyz\study\mine\autotestwyz" />
       <recent name="D:\wyz\study\mine" />
+      <recent name="D:\wyz\study\mine\asesome-python3-webapp\www" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -188,116 +255,115 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Fun7">
-    <configuration name="Fun3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.wcfsds">
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autotestwyz/TEST" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/Fun3.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autotestwyz/TEST/TEST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Fun4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="wcfsds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autotestwyz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/Fun4.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/autotestwyz/wcfsds.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="Fun5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest for autotestwyz.already.test_wyz.TestMessageCenter" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autotestwyz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/Fun5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;autotestwyz.already.test_wyz.TestMessageCenter&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Fun6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in test_wyz1.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autotestwyz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/Fun6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/autotestwyz/test_wyz1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
-    <configuration name="Fun7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pytest in test_wyz.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mine" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/autotestwyz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="mine" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/Fun7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/autotestwyz/already/test_wyz.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Fun3" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Fun4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Fun5" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Fun6" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Fun7" />
+    <list>
+      <item itemvalue="Python.TEST" />
+      <item itemvalue="Python.wcfsds" />
+      <item itemvalue="Python tests.pytest in test_wyz1.py" />
+      <item itemvalue="Python tests.pytest in test_wyz.py" />
+      <item itemvalue="Python tests.pytest for autotestwyz.already.test_wyz.TestMessageCenter" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Fun7" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Fun6" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Fun5" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Fun4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Fun3" />
+      <list>
+        <item itemvalue="Python.wcfsds" />
+        <item itemvalue="Python tests.pytest for autotestwyz.already.test_wyz.TestMessageCenter" />
+        <item itemvalue="Python.TEST" />
+        <item itemvalue="Python tests.pytest in test_wyz.py" />
+        <item itemvalue="Python tests.pytest in test_wyz1.py" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -309,356 +375,252 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516092976927</updated>
+      <workItem from="1543822467542" duration="843000" />
+      <workItem from="1543823442150" duration="5361000" />
+      <workItem from="1543830226180" duration="2901000" />
+      <workItem from="1544081854290" duration="159000" />
+      <workItem from="1544082437619" duration="37000" />
+      <workItem from="1544234547723" duration="1414000" />
+      <workItem from="1544691520605" duration="170000" />
+      <workItem from="1544691732956" duration="225000" />
+      <workItem from="1544692041657" duration="238000" />
+      <workItem from="1545012595639" duration="7454000" />
+      <workItem from="1545036260931" duration="552000" />
+      <workItem from="1545038573716" duration="1179000" />
+      <workItem from="1545095598245" duration="245000" />
+      <workItem from="1545102248576" duration="1311000" />
+      <workItem from="1545119906827" duration="4875000" />
+      <workItem from="1545182325057" duration="20925000" />
+      <workItem from="1545224017388" duration="431000" />
+      <workItem from="1545725374647" duration="307000" />
+      <workItem from="1545876778759" duration="143000" />
+      <workItem from="1545892065915" duration="4448000" />
+      <workItem from="1545896663940" duration="1023000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 11m 29s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 13m 30s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 15m 01s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 17m 09s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 18m 45s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 15h 19m 15s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz1_py - 2018.12.19 at 17h 56m 17s.xml">
+      <configuration name="pytest in test_wyz1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz_py - 2018.12.19 at 17h 58m 48s.xml">
+      <configuration name="pytest in test_wyz.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz_py - 2018.12.19 at 20h 55m 02s.xml">
+      <configuration name="pytest in test_wyz.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_wyz_py - 2018.12.19 at 21h 00m 25s.xml">
+      <configuration name="pytest in test_wyz.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54298000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="748" y="0" width="1171" height="1040" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22232223" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48987207" weight="0.17118093" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5101279" side_tool="true" weight="0.17118093" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="R Packages" />
+      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/easy/firsttest.py" />
-    <entry file="file://$PROJECT_DIR$/easy/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/easy/firsttest.py" />
-    <entry file="file://$PROJECT_DIR$/canshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mingmingguanjianzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moudle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mingmingguanjianzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moudle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mingmingguanjianzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moudle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/mingmingguanjianzi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/many.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moudle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/jiefangcheng.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/firsttest.py" />
+    <entry file="file://$PROJECT_DIR$/杭州-咫尺/selenium2/1.py" />
     <entry file="file://$PROJECT_DIR$/asesome-python3-webapp/www/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="34" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="34" />
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Output.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/InputAndOutput.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/String1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/If1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/For1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/While1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shuru.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qiuhe.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Tuple1.py">
+    <entry file="file://$PROJECT_DIR$/autotestwyz/1116.py" />
+    <entry file="file://$PROJECT_DIR$/autotestwyz/test_t.py" />
+    <entry file="file://$PROJECT_DIR$/cfxfzz_V2.0/cfxfzz/fun.py" />
+    <entry file="file://$PROJECT_DIR$/cfxfzz_V2.0/cfxfzz/cfxfzz.py" />
+    <entry file="file://$PROJECT_DIR$/learning.py" />
+    <entry file="file://$PROJECT_DIR$/autotestwyz/already/test_sele.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding />
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/List1.py">
+    <entry file="file://$PROJECT_DIR$/cfxfzz/fun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
+        <state relative-caret-position="650">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Dict1.py">
+    <entry file="file://$PROJECT_DIR$/autotestwyz/already/fun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="775">
+          <caret line="97" column="24" lean-forward="true" selection-start-line="97" selection-start-column="24" selection-end-line="97" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun2.py">
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/allure/common.py" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="165" selection-start-line="165" selection-end-line="165" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/test_wyz1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cfxfzz/cfxfzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/TEST/TEST.py" />
+    <entry file="file://$PROJECT_DIR$/autotestwyz/TEST/fsds.py" />
+    <entry file="file://$PROJECT_DIR$/autotestwyz/TEST/selector.py" />
+    <entry file="file://$PROJECT_DIR$/autotestwyz/already/assistant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="104" column="56" selection-start-line="104" selection-start-column="56" selection-end-line="104" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/assistant1130.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/test_wyzt3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2475">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/already/test_wyz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10474">
+          <caret line="84" column="70" selection-start-line="84" selection-start-column="70" selection-end-line="84" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotestwyz/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-          <folding />
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun4.py">
+    <entry file="file://$PROJECT_DIR$/autotestwyz/test_wyzt4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun3.py">
+    <entry file="file://$PROJECT_DIR$/autotestwyz/wcfsds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Fun7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>

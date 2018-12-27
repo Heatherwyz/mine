@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_wyz1.TestMessageCenter.test_login","4888",""
+"failed","test_wyz1.TestMessageCenter.test_7","268",""
+"passed","test_wyz1.TestMessageCenter.test_setBrower","5988",""
+"failed","test_wyz1.TestMessageCenter.test_8","131",""

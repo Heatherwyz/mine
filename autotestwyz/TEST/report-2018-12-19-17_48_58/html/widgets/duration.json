@@ -1,0 +1,421 @@
+[ {
+  "uid" : "3e7a021576b03f0c",
+  "name" : "TestMessageCenter.test_20",
+  "time" : {
+    "start" : 1545212986928,
+    "stop" : 1545212989023,
+    "duration" : 2095
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "417f9b90d7951743",
+  "name" : "TestMessageCenter.test_30",
+  "time" : {
+    "start" : 1545212990547,
+    "stop" : 1545213000712,
+    "duration" : 10165
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc3a4f55ee731ffb",
+  "name" : "TestMessageCenter.test_21",
+  "time" : {
+    "start" : 1545212989025,
+    "stop" : 1545212989281,
+    "duration" : 256
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8a2b16ec8a78ba",
+  "name" : "TestMessageCenter.test_16",
+  "time" : {
+    "start" : 1545212978433,
+    "stop" : 1545212980580,
+    "duration" : 2147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c369c0e54e4bc4bd",
+  "name" : "TestMessageCenter.test_7",
+  "time" : {
+    "start" : 1545212959019,
+    "stop" : 1545212961153,
+    "duration" : 2134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c64316eaaddf3706",
+  "name" : "TestMessageCenter.test_12",
+  "time" : {
+    "start" : 1545212971549,
+    "stop" : 1545212973654,
+    "duration" : 2105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "588d2204b7ca0c95",
+  "name" : "TestMessageCenter.test_24",
+  "time" : {
+    "start" : 1545212989606,
+    "stop" : 1545212989734,
+    "duration" : 128
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4115304a7709022",
+  "name" : "TestMessageCenter.test_31",
+  "time" : {
+    "start" : 1545213000715,
+    "stop" : 1545213010821,
+    "duration" : 10106
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "917ecb64bd910878",
+  "name" : "TestMessageCenter.test_34",
+  "time" : {
+    "start" : 1545213031106,
+    "stop" : 1545213041228,
+    "duration" : 10122
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d905d03e2952f9d7",
+  "name" : "TestMessageCenter.test_22",
+  "time" : {
+    "start" : 1545212989284,
+    "stop" : 1545212989433,
+    "duration" : 149
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6388a23e13a3f4df",
+  "name" : "TestMessageCenter.test_36",
+  "time" : {
+    "start" : 1545213051392,
+    "stop" : 1545213051565,
+    "duration" : 173
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6e472678052991d",
+  "name" : "TestMessageCenter.test_14",
+  "time" : {
+    "start" : 1545212975754,
+    "stop" : 1545212977786,
+    "duration" : 2032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9edc5a770db6a9fa",
+  "name" : "TestMessageCenter.test_11",
+  "time" : {
+    "start" : 1545212967419,
+    "stop" : 1545212971547,
+    "duration" : 4128
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8bb2693d6a2868c",
+  "name" : "TestMessageCenter.test_37",
+  "time" : {
+    "start" : 1545213051569,
+    "stop" : 1545213061944,
+    "duration" : 10375
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c05c852aed2d8875",
+  "name" : "TestMessageCenter.test_41",
+  "time" : {
+    "start" : 1545213082435,
+    "stop" : 1545213082469,
+    "duration" : 34
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f5ef58f1cc1063f",
+  "name" : "TestMessageCenter.test_6",
+  "time" : {
+    "start" : 1545212956900,
+    "stop" : 1545212959016,
+    "duration" : 2116
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f0f3eb827451e34",
+  "name" : "TestMessageCenter.test_27",
+  "time" : {
+    "start" : 1545212990061,
+    "stop" : 1545212990227,
+    "duration" : 166
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "252217a710765953",
+  "name" : "TestMessageCenter.test_33",
+  "time" : {
+    "start" : 1545213020967,
+    "stop" : 1545213031103,
+    "duration" : 10136
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "983017c93f29e091",
+  "name" : "TestMessageCenter.test_39",
+  "time" : {
+    "start" : 1545213072212,
+    "stop" : 1545213072285,
+    "duration" : 73
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a44d4eb0bf05f8cc",
+  "name" : "TestMessageCenter.test_9",
+  "time" : {
+    "start" : 1545212963239,
+    "stop" : 1545212965369,
+    "duration" : 2130
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aeda4a59fce1969f",
+  "name" : "TestMessageCenter.test_18",
+  "time" : {
+    "start" : 1545212982708,
+    "stop" : 1545212984797,
+    "duration" : 2089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84d17638665e18d8",
+  "name" : "TestMessageCenter.test_35",
+  "time" : {
+    "start" : 1545213041231,
+    "stop" : 1545213051390,
+    "duration" : 10159
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a38aa592d6e0ca2e",
+  "name" : "TestMessageCenter.test_3",
+  "time" : {
+    "start" : 1545212950514,
+    "stop" : 1545212952667,
+    "duration" : 2153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a97f02d4f99b0f5",
+  "name" : "TestMessageCenter.test_10",
+  "time" : {
+    "start" : 1545212965371,
+    "stop" : 1545212967417,
+    "duration" : 2046
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c37a0434af2e67f9",
+  "name" : "TestMessageCenter.test_4",
+  "time" : {
+    "start" : 1545212952669,
+    "stop" : 1545212954772,
+    "duration" : 2103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc6f2a5a4fac3316",
+  "name" : "TestMessageCenter.test_26",
+  "time" : {
+    "start" : 1545212989929,
+    "stop" : 1545212990059,
+    "duration" : 130
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "710646dda402c07a",
+  "name" : "TestMessageCenter.test_38",
+  "time" : {
+    "start" : 1545213061953,
+    "stop" : 1545213072210,
+    "duration" : 10257
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e0ebf12149babce",
+  "name" : "TestMessageCenter.test_25",
+  "time" : {
+    "start" : 1545212989737,
+    "stop" : 1545212989926,
+    "duration" : 189
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6735f963583554ee",
+  "name" : "TestMessageCenter.test_32",
+  "time" : {
+    "start" : 1545213010824,
+    "stop" : 1545213020964,
+    "duration" : 10140
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "dba761141a6c02cf",
+  "name" : "TestMessageCenter.test_28",
+  "time" : {
+    "start" : 1545212990229,
+    "stop" : 1545212990363,
+    "duration" : 134
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "7142451d95815d79",
+  "name" : "TestMessageCenter.test_17",
+  "time" : {
+    "start" : 1545212980582,
+    "stop" : 1545212982705,
+    "duration" : 2123
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57477b2d00da7399",
+  "name" : "TestMessageCenter.test_close",
+  "time" : {
+    "start" : 1545213082471,
+    "stop" : 1545213085547,
+    "duration" : 3076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a775fbd73bb9b2a4",
+  "name" : "TestMessageCenter.test_29",
+  "time" : {
+    "start" : 1545212990366,
+    "stop" : 1545212990544,
+    "duration" : 178
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "a38f184d1912d42",
+  "name" : "TestMessageCenter.test_40",
+  "time" : {
+    "start" : 1545213072287,
+    "stop" : 1545213082432,
+    "duration" : 10145
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "451547e2ae8ebf43",
+  "name" : "TestMessageCenter.test_login",
+  "time" : {
+    "start" : 1545212945534,
+    "stop" : 1545212950513,
+    "duration" : 4979
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67c13b5652cebf91",
+  "name" : "TestMessageCenter.test_13",
+  "time" : {
+    "start" : 1545212973656,
+    "stop" : 1545212975752,
+    "duration" : 2096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88920a5daa155de7",
+  "name" : "TestMessageCenter.test_setBrower",
+  "time" : {
+    "start" : 1545212939458,
+    "stop" : 1545212945531,
+    "duration" : 6073
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ba2f0386b526ee2",
+  "name" : "TestMessageCenter.test_8",
+  "time" : {
+    "start" : 1545212961155,
+    "stop" : 1545212963236,
+    "duration" : 2081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9772d136adef5c46",
+  "name" : "TestMessageCenter.test_5",
+  "time" : {
+    "start" : 1545212954774,
+    "stop" : 1545212956898,
+    "duration" : 2124
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b0f6a1556023786",
+  "name" : "TestMessageCenter.test_19",
+  "time" : {
+    "start" : 1545212984800,
+    "stop" : 1545212986926,
+    "duration" : 2126
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de099b68808f926d",
+  "name" : "TestMessageCenter.test_23",
+  "time" : {
+    "start" : 1545212989436,
+    "stop" : 1545212989603,
+    "duration" : 167
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "e263655e9d570b32",
+  "name" : "TestMessageCenter.test_15",
+  "time" : {
+    "start" : 1545212977788,
+    "stop" : 1545212978431,
+    "duration" : 643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

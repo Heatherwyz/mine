@@ -1,0 +1,41 @@
+[ {
+  "uid" : "a52ef8b194f681c6",
+  "name" : "TestMessageCenter.test_login",
+  "time" : {
+    "start" : 1545213241788,
+    "stop" : 1545213246676,
+    "duration" : 4888
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdf8da7159335f8f",
+  "name" : "TestMessageCenter.test_7",
+  "time" : {
+    "start" : 1545213246678,
+    "stop" : 1545213246946,
+    "duration" : 268
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "bcb616dd8f162e45",
+  "name" : "TestMessageCenter.test_setBrower",
+  "time" : {
+    "start" : 1545213235798,
+    "stop" : 1545213241786,
+    "duration" : 5988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fe78ba3ce934f699",
+  "name" : "TestMessageCenter.test_8",
+  "time" : {
+    "start" : 1545213246949,
+    "stop" : 1545213247080,
+    "duration" : 131
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

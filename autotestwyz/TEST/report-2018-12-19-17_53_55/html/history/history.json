@@ -1,0 +1,80 @@
+{
+  "f1dfc605f01e77db2db5bedd9753d4ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a52ef8b194f681c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545213241788,
+        "stop" : 1545213246676,
+        "duration" : 4888
+      }
+    } ]
+  },
+  "7942cc4834e203149c0950f07b77b02a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fe78ba3ce934f699",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 184). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213246949,
+        "stop" : 1545213247080,
+        "duration" : 131
+      }
+    } ]
+  },
+  "e343b795dc3f9d891f62bef00bc468a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bcb616dd8f162e45",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545213235798,
+        "stop" : 1545213241786,
+        "duration" : 5988
+      }
+    } ]
+  },
+  "181cfcb1a2e51070a2d4bd70c961ed2d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fdf8da7159335f8f",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\n  - 订阅失败，请重新退订\n  + 订阅成功",
+      "time" : {
+        "start" : 1545213246678,
+        "stop" : 1545213246946,
+        "duration" : 268
+      }
+    } ]
+  }
+}

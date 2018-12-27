@@ -1,0 +1,85 @@
+{
+  "uid" : "9edc5a770db6a9fa",
+  "name" : "TestMessageCenter.test_11",
+  "fullName" : "test_wyz.TestMessageCenter.test_11",
+  "historyId" : "f39d6095600053bb837e53f9010e4472",
+  "time" : {
+    "start" : 1545212967419,
+    "stop" : 1545212971547,
+    "duration" : 4128
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "问财开关打开时弹出的弹窗取消",
+      "time" : {
+        "start" : 1545212967421,
+        "stop" : 1545212971547,
+        "duration" : 4126
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mobile-10-24-51"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessageCenter.test_11"
+  }, {
+    "name" : "package",
+    "value" : "test_wyz"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9edc5a770db6a9fa.json",
+  "parameterValues" : [ ]
+}

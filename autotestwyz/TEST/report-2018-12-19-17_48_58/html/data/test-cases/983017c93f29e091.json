@@ -1,0 +1,94 @@
+{
+  "uid" : "983017c93f29e091",
+  "name" : "TestMessageCenter.test_39",
+  "fullName" : "test_wyz.TestMessageCenter.test_39",
+  "historyId" : "c7b8a6c963262368ca3491065d5a7f6b",
+  "time" : {
+    "start" : 1545213072212,
+    "stop" : 1545213072285,
+    "duration" : 73
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+  "statusTrace" : "self = <test_wyz.TestMessageCenter object at 0x00000000047048D0>\n\n    @pytest.mark.run(order=39)\n    @allure.step(title='刷新回到消息中心')\n    def test_39(self):\n        driver.refresh()\n>       assert driver.current_url == \"https://eq.10jqka.com.cn/newscenter/main.html\"\nE       AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\nE         - data:,\nE         + https://eq.10jqka.com.cn/newscenter/main.html\n\ntest_wyz.py:495: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+    "statusTrace" : "self = <test_wyz.TestMessageCenter object at 0x00000000047048D0>\n\n    @pytest.mark.run(order=39)\n    @allure.step(title='刷新回到消息中心')\n    def test_39(self):\n        driver.refresh()\n>       assert driver.current_url == \"https://eq.10jqka.com.cn/newscenter/main.html\"\nE       AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\nE         - data:,\nE         + https://eq.10jqka.com.cn/newscenter/main.html\n\ntest_wyz.py:495: AssertionError",
+    "steps" : [ {
+      "name" : "刷新回到消息中心",
+      "time" : {
+        "start" : 1545213072214,
+        "stop" : 1545213072261,
+        "duration" : 47
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test_wyz.TestMessageCenter object at 0x00000000047048D0>\n\n    @pytest.mark.run(order=39)\n    @allure.step(title='刷新回到消息中心')\n    def test_39(self):\n        driver.refresh()\n>       assert driver.current_url == \"https://eq.10jqka.com.cn/newscenter/main.html\"\nE       AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\nE         - data:,\nE         + https://eq.10jqka.com.cn/newscenter/main.html\n\ntest_wyz.py:495: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mobile-10-24-51"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6736-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wyz"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessageCenter.test_39"
+  }, {
+    "name" : "package",
+    "value" : "test_wyz"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "983017c93f29e091.json",
+  "parameterValues" : [ ]
+}

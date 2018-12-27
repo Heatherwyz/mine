@@ -1,0 +1,61 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "mobile-10-24-51",
+    "children" : [ {
+      "name" : "7184-MainThread",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_login",
+        "uid" : "a52ef8b194f681c6",
+        "parentUid" : "b849e8b87410e265b10bdc2ec97937f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545213241788,
+          "stop" : 1545213246676,
+          "duration" : 4888
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_7",
+        "uid" : "fdf8da7159335f8f",
+        "parentUid" : "b849e8b87410e265b10bdc2ec97937f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213246678,
+          "stop" : 1545213246946,
+          "duration" : 268
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_setBrower",
+        "uid" : "bcb616dd8f162e45",
+        "parentUid" : "b849e8b87410e265b10bdc2ec97937f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1545213235798,
+          "stop" : 1545213241786,
+          "duration" : 5988
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_8",
+        "uid" : "fe78ba3ce934f699",
+        "parentUid" : "b849e8b87410e265b10bdc2ec97937f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213246949,
+          "stop" : 1545213247080,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b849e8b87410e265b10bdc2ec97937f7"
+    } ],
+    "uid" : "ecf4fb07d565dc07df6e3a9f69c3a995"
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "7058c497743b3d0e62a3d5e050624dfe",
+    "name" : "test_wyz",
+    "statistic" : {
+      "failed" : 21,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 21,
+      "unknown" : 0,
+      "total" : 42
+    }
+  } ]
+}

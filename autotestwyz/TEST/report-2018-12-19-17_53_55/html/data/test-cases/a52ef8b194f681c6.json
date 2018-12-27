@@ -1,0 +1,85 @@
+{
+  "uid" : "a52ef8b194f681c6",
+  "name" : "TestMessageCenter.test_login",
+  "fullName" : "test_wyz1.TestMessageCenter.test_login",
+  "historyId" : "f1dfc605f01e77db2db5bedd9753d4ad",
+  "time" : {
+    "start" : 1545213241788,
+    "stop" : 1545213246676,
+    "duration" : 4888
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "登录账号及加载cookie",
+      "time" : {
+        "start" : 1545213241790,
+        "stop" : 1545213246676,
+        "duration" : 4886
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mobile-10-24-51"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7184-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessageCenter.test_login"
+  }, {
+    "name" : "package",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a52ef8b194f681c6.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,144 @@
+1、安装完成后的第一步，自报家门：
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+ps：注意git config命令的--global参数，用了这个参数，表示你这台机器上所有的Git仓库都会使用这个配置。
+
+2、本地创建版本库：
+找一个空目录:cd xxxx
+创建目录： $ mkdir learngit
+进入目录： $ cd learngit
+查看当前目录： $ pwd
+
+3、通过git init命令把这个目录变成Git可以管理的仓库：
+$ git init
+Initialized empty Git repository in /Users/michael/learngit/.git/
+
+4、添加/提交文件到仓库：
+ps：一定要放到上面的目录下（子目录也行）
+1、第一步，用命令git add告诉Git，把文件添加到仓库：
+$ git add readme.txt
+
+2、第二步，用命令git commit告诉Git，把文件提交到仓库：
+$ git commit -m "wrote a readme file"
+
+3、运行git status命令看看结果：
+$ git status
+
+4、git diff顾名思义就是查看difference：
+$ git diff readme.txt 
+
+5、用git log命令查看历史记录：
+$ git log
+$ git log --pretty=oneline
+
+6、回退
+1、回退到上一版本：
+$ git reset --hard HEAD^
+2、回退到某一个版本：
+$ git reset --hard 3628164
+
+查看文档：
+$ cat readme.txt
+
+git reflog用来记录你的每一次命令文件：
+$ git reflog
+
+用git diff HEAD -- readme.txt命令可以查看工作区和版本库里面最新版本的区别：
+$ git diff HEAD -- readme.txt
+
+git checkout -- file可以丢弃工作区的修改：
+$ git checkout -- readme.txt
+
+用命令git reset HEAD file可以把暂存区的修改撤销掉（unstage），重新放回工作区：
+$ git reset HEAD readme.txt
+
+本地删除文件：
+$ rm test.txt
+
+要从版本库中删除该文件，那就用命令git rm删掉，并且git commit：
+$ git rm test.txt
+$ git commit -m "remove test.txt"
+
+删错了，丢弃本地文档的修改：
+$ git checkout -- test.txt
+
+远程仓库
+1、创建SSH Key：
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
+2、第2步：登陆GitHub，打开“Account settings”，“SSH Keys”页面：
+然后，点“Add SSH Key”，填上任意Title，在Key文本框里粘贴id_rsa.pub文件的内容：
+点“Add Key”，你就应该看到已经添加的Key：
+
+3、本地账户与远程账户建立连接：
+$ git remote add origin git@github.com:michaelliao/learngit.git
+
+4、就可以把本地库的所有内容推送到远程库上：
+$ git push -u origin master
+
+
+1、流程：fork 源仓库 ---① fork--> fork 仓库副本 ---② clone--> local 仓库
+
+当你在远程端（如 Github）上 fork 了别人的一个仓库时，你的远程仓库将新建一份 fork 来的“仓库副本”。如果你想在本地修改这份副本仓库，你需要先 clone 它到本地：
+
+$ git clone git@github.com:YOUR_USERNAME/YOUR_FORK
+# 或
+$ git clone https://github.com/YOUR_USERNAME/YOUR_FORK
+
+现在你已经有了一份 fork 的本地副本，同时你可以开始在本地修改代码了。
+
+2、同步更新
+
+流程：fork 源仓库 ---① fetch & merge--> local 仓库 ---② push--> fork 仓库副本
+
+到目前为止，你本地仓库的远程信息可以用 $ git remote -v 查看到：
+
+https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+
+1、为了获得 fork 源仓库的更新，现在要添加 fork 源仓库的地址，例如：
+
+ git remote add upstream "https://github.com/small99/deeptest.git"
+
+ps：这里的 upstream 是可以修改名称的，代表 fork 源仓库的别名。
+
+
+2、用 $ git remote -v 查看本地仓库关联的远程地址到：
+
+origin https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPO.git(fetch)
+upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPO.git (push)
+
+
+
+3、以上设置好了，当你要更新 fork 源仓库的时候，首先 fetch 一份源仓库变动到本地，这回生成一个分支 upstream/master：
+
+$ git fetch upstream
+
+
+
+4、可以用查看分支命令查看所有分支：
+
+$ git branch
+
+
+
+5、然后，切换到本地 master 分支：
+
+$ git checkout master
+
+
+
+6、合并 upstream/master 分支的变化到本地 master 分支：
+
+$ git merge upstream/master
+
+
+
+7、到这里，仅把 fork 源仓库更新到了本地仓库，如果想要更新远程端的 fork 仓库副本 ，必须向远程端 push 一次：
+
+$ git push origin master
+
+8、最后一步，发送pull request
+

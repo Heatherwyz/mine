@@ -1,0 +1,383 @@
+书名,作者,描述,出版社,价格
+Python编程：从入门到实践,[美]埃里克·马瑟斯,本书是一本针对所有层次的Python 读者而作的Python 入门书。全书分两部分：第一部分介绍用Python 编程所必须了解的基本概念，包括matplotlib、NumPy 和Pygal 等强大的Python 库和工具介绍，以及列表、字典、if 语句、类、文件与异常、代码测试等内容；第二部分将理论付诸实践，讲解如何开发三个项目，包括简单的Python 2D 游戏开发如何利用数据生成交互式的信息图，以及创建和定制简单的Web 应用，并帮读者解决常见编程问题和困惑。,人民邮电出版社,CNY 89.00
+利用Python进行数据分析,Wes McKinney,|【名人推荐】
+“科学计算和数据分析社区已经等待这本书很多年了：大量具体的实践建议，以及大量综合应用方法。本书在未来几年里肯定会成为Python领域中技术计算的权威指南。”
+——Fernando Pérez　加州大学伯克利分校 研究科学家， IPython的创始人之一
+【内容简介】
+还在苦苦寻觅用Python控制、处理、整理、分析结构化数据的完整课程？本书含有大量的实践案例，你将学会如何利用各种Python库（包括NumPy、pandas、matplotlib以及IPython等）高效地解决各式各样的数据分析问题。
+由于作者Wes McKinney是pandas库的主要作者，所以本书也可以作为利用Python实现数据密集型应用的科学计算实践指南。本书适合刚刚接触Python的分析人员以及刚刚接触科学计算的Python程序员。
+•将IPython这个交互式Shell作为你的首要开发环境。
+•学习NumPy（Numerical Python）的基础和高级知识。
+•从pandas库的数据分析工具开始。
+•利用高性能工具对数据进行加载、清理、转换、合并以及重塑。
+•利用matplotlib创建散点图以及静态或交互式的可视化结果。
+•利用pandas的groupby功能对数据集进行切片、切块和汇总操作。
+•处理各种各样的时间序列数据。
+•通过详细的案例学习如何解决Web分析、社会科学、金融学以及经•济学等领域的问题。|,机械工业出版社,89.00
+Flask Web开发：基于Python的Web应用开发实战,[美] Miguel Grinberg,|本书不仅适合初级Web开发人员学习阅读，更是Python程序员用来学习高级Web开发技术的优秀参考书。
+•	学习Flask应用的基本结构，编写示例应用；
+•	使用必备的组件，包括模板、数据库、Web表单和电子邮件支持；
+•	使用包和模块构建可伸缩的大型应用；
+•	实现用户认证、角色和个人资料；
+•	在博客网站中重用模板、分页显示列表以及使用富文本；
+•	使用基于Flask的REST式API，在智能手机、平板电脑和其他第三方客户端上实现可用功能；
+•	学习运行单元测试以及提升性能；
+•	将Web应用部署到生产服务器。|,人民邮电出版社,59.00元
+Python基础教程,Magnus Lie Hetland,本书是经典教程的全新改版，作者根据Python 3.0版本的种种变化，全面改写了书中内容，做到既能“瞻前”也能“顾后”。本书层次鲜明、结构严谨、内容翔实，特别是在最后几章，作者将前面讲述的内容应用到了10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程。本书既适合初学者夯实基础，又能帮助Python程序员提升技能，即使是 Python方面的技术专家，也能从书里找到令你耳目一新的东西。,人民邮电出版社,69.00元
+Python核心编程（第二版）,[美]Wesley J. Chun（陳仲才）,|本书是Python开发者的完全指南——针对 Python 2.5全面升级
+·学习专业的Python风格、最佳实践和好的编程习惯；
+·加强对Python对象、内存模型和Python面向对象特性的深入理解；
+·构建更有效的Web、CGI、互联网、网络和其他客户端\/服务器架构应用程序及软件；
+·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；
+·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I\/0相关的应用程序的能力；
+·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。|,人民邮电出版社,89.00元
+"笨办法"学Python,肖 (Zed A.Shaw),|本书是一本Python入门书籍，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。
+本书结构非常简单，共包括52个习题，其中26个覆盖了输入\/输出、变量和函数三个主题，另外26个覆盖了一些比较高级的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
+Zed Shaw完善了这个堪称世上最好的Python学习系统。只要跟着学习，你就会和迄今为止数十万Zed教过的初学者一样获得成功。
+在这本书中，你将通过完成52个精心设计的习题来学会Python。阅读这些习题，把习题的代码精确地写出来（禁止复制和粘贴！），修正你的错误，观察程序的运行。在这个过程中，你将了解软件是如何工作的，好的程序看起来是什么样子，怎样阅读、编写、思考代码，以及如何用专业程序员的技巧来找出并修正错误。最重要的是，你将学到下面这些编写优秀的Python软件必需的初始技能。
+这本书会让你的每一分钟投入都有回报。Python是世界上最强大、最受欢迎的编程语言之一，很快你就会成为一名Python程序员。
+你还可以看Zed的视频！随书附赠的DVD中包含5个多小时激情挥洒的教学内容：一部完整的Python视频教程！|,人民邮电出版社,CNY 49.00
+Python学习手册,Mark Lutz,|《Python学习手册(第3版)》讲述了：Python可移植、功能强大、易于使用，是编写独立应用程序和脚本应用程序的理想选择。无论你是刚接触编程或者刚接触Python，通过学习《Python学习手册(第3版)》，你可以迅速高效地精通核心Python语言基础。读完《Python学习手册(第3版)》，你会对这门语言有足够的了解，从而可以在你所从事的任何应用领域中使用它。
+《Python学习手册(第3版)》是作者根据过去10年用于教学而广为人知的培训课程的材料编写而成的。除了有许多详实说明和每章小结之外，每章还包括一个头脑风暴：这是《Python学习手册(第3版)》独特的一部分，配合以实用的练习题和复习题，让读者练习新学的技巧并测试自己的理解程度。
+《Python学习手册(第3版)》包括：
+类型和操作——深入讨论Python主要的内置对象类型：数字、列表和字典等。
+语句和语法——在Python中输入代码来建立并处理对象，以及Python一般的语法模型。
+函数——Python基本的面向过程工具，用于组织代码和重用。
+模块——封装语句、函数以及其他工具，从而可以组织成较大的组件。
+类和OOP——Python可选的面向对象编程工具，可用于组织程序代码从而实现定制和重用。
+异常和工具——异常处理模型和语句，并介绍编写更大程序的开发工具。
+讨论Python 3.0。
+《Python学习手册(第3版)》让你对Python语言有深入而完整的了解，从而帮助你理解今后遇到的任何Python应用程序实例。如果你准备探索Google和YouTube为什么选中了Python，《Python学习手册(第3版)》就是你入门的最佳指南。|,机械工业出版社,89.00元
+Python编程快速上手,斯维加特 (Al Sweigart),|如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。通过Python编程，我们能够解决现实生活中的很多任务。
+本书是一本面向实践的Python编程实用指南。本书的目的，不仅是介绍Python语言的基础知识，而且还通过项目实践教会读者如何应用这些知识和技能。本书的首部分介绍了基本Python编程概念，第二部分介绍了一些不同的任务，通过编写Python程序，可以让计算机自动完成它们。第二部分的每一章都有一些项目程序，供读者学习。每章的末尾还提供了一些习题和深入的实践项目，帮助读者巩固所学的知识。附录部分提供了所有习题的解答。
+本书适合任何想要通过Python学习编程的读者，尤其适合缺乏编程基础的初学者。通过阅读本书，读者将能利用强大的编程语言和工具，并且会体会到Python编程的快乐。|,人民邮电出版社,CNY 69.00
+流畅的Python,[巴西] Luciano Ramalho,|【技术大咖推荐】
+“很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员
+“对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者
+【本书特色】
+本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Python代码。
+●	Python数据模型：理解为什么特殊方法是对象行为一致的关键。
+●	数据结构：充分利用内置类型，理解Unicode文本和字节二象性。
+●	把函数视作对象：把Python函数视作一等对象，并了解这一点对流行的设计模式的影响。
+●	面向对象习惯用法：通过构建类学习引用、可变性、接口、运算符重载和多重继承。
+●	控制流程：学习使用上下文管理器、生成器、协程，以及通过concurrent.futures和asyncio包实现的并发。
+●	元编程：理解特性、描述符、类装饰器和元类的工作原理。
+【主要内容】
+本书致力于帮助Python开发人员挖掘这门语言及相关程序库的优秀特性，避免重复劳动，同时写出简洁、流畅、易读、易维护，并且具有地道Python风格的代码。本书尤其深入探讨了Python语言的高级用法，涵盖数据结构、Python风格的对象、并行与并发，以及元编程等不同的方面。
+本书适合中高级Python软件开发人员阅读参考。
+【译者简介】
+安道
+专注于现代计算机技术的自由翻译，译有《Flask Web 开发》《Python 网络编程攻略》《Ruby on Rails 教程》等书。
+个人网站：http:\/\/about.ac\/。
+吴珂
+现为Airbnb公司软件工程师，所在团队主要负责开发和维护各类可伸缩、高性能服务，并在Airbnb内推广面向服务的系统架构。在分布式系统、云存储服务和跨平台SDK开发，以及大规模数据处理等方面有多年经验。|,人民邮电出版社,139元
+Python学习手册（第4版）,[美] Mark Lutz,|Google和YouTube由于Python的高可适应性、易于维护以及适合于快速开发而采用它。如果你想要编写高质量、高效的并且易于与其他语言和工具集成的代码，《Python学习手册：第4 版》将帮助你使用Python快速实现这一点，不管你是编程新手还是Python初学者。本书是易于掌握和自学的教程，根据作者Python专家Mark Lutz的著名培训课程编写而成。
+《Python学习手册：第4版》每一章都包含关于Python语言的关键内容的独立的一课，并且包含了一个独特的“练习题”部分，其中带有实际的练习和测试，以便你可以练习新的技能并随着学习而测试自己的理解。你会发现众多带有注释的示例以及图表，它们将帮助你开始学习Python 3.0。
+《Python学习手册：第4版》包括以下内容：
+学习Python的主要内建对象类型：数字、列表和字典。
+使用Python语句创建和处理对象，并且学习Python的通用语法模型。
+使用函数构造和重用代码，函数是Python的基本过程工具。
+学习Python模块：封装语句、函数以及其他工具，从而可以组织成较大的组件。
+Python的面向对象编程工具，用于组织程序代码。
+学习异常处理模型，以及用于编写较大程序的开发工具。
+了解包括装饰器、描述器、元类和Unicode处理等高级Python工具。|,机械工业出版社,119.00元
+Fluent Python,Luciano Ramalho,|Learn how to write idiomatic, effective Python code by leveraging its best features. Python's simplicity quickly lets you become productive with it, but this often means you aren’t using everything the language has to offer. By taking you through Python’s key language features and libraries, this practical book shows you how to make your code shorter, faster, and more readable all at the same time—what experts consider Pythonic.
+Many programmers who learn Python basics fall into the trap of reinventing the wheel because of past experience in other languages, and try to bend the language to patterns that don't really apply to it. Author Luciano Ramalho, a Python Software Foundation member and Python programmer for 15 years, helps you drop your accent from another language so you can code Python fluently.
+•Learn practical applications of generators for database processing
+•Rethink some design patterns in a Python context
+•Examine attribute descriptors and when to use them: the key to ORMs
+•Explore Pythonic objects: protocols versus interfaces, abstract base classes and multiple inheritance|,O'Reilly Media,USD 39.99
+Python for Data Analysis,Wes McKinney,|Finding great data analysts is difficult. Despite the explosive growth of data in industries ranging from manufacturing and retail to high technology, finance, and healthcare, learning and accessing data analysis tools has remained a challenge. This pragmatic guide will help train you in one of the most important tools in the field - Python. Filled with practical case studies, Python for Data Analysis demonstrates the nuts and bolts of manipulating, processing, cleaning, and crunching data with Python. It also serves as a modern introduction to scientific computing in Python for data-intensive applications. Learn about the growing field of data analysis from an expert in the community. Learn everything you need to start doing real data analysis work with Python Get the most complete instruction on the basics of the "modern scientific Python platform" Learn from an insider who builds tools for the scientific stack Get an excellent introduction for novices and a wealth of advanced methods for experienced analysts|,O'Reilly Media,USD 39.99
+A Byte of Python,Swaroop C H,|'A Byte of Python' is a book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.|,Lulu Marketplace,USD 27.98
+Python源码剖析,陈儒,|作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C\/C++编写Python的扩展模块，还能将Python嵌入到C\/C++程序中，为自己的系统添加动态扩展和动态编程的能力。.
+为了更好地利用Python语言，无论是使用Python语言本身，还是将Python与C\/C++交互使用，深刻理解Python的运行原理都是非常重要的。本书以CPython为研究对象，在C代码一级，深入细致地剖析了Python的实现。书中不仅包括了对大量Python内置对象的剖析，更将大量的篇幅用于对Python虚拟机及Python高级特性的剖析。通过此书，读者能够透彻地理解Python中的一般表达式、控制结构、异常机制、类机制、多线程机制、模块的动态加载机制、内存管理机制等核心技术的运行原理，同时，本书所揭示的动态语言的核心技术对于理解其他动态语言，如 Javascript、Ruby等也有较大的参考价值。..
+本书适合于Python程序员、动态语言爱好者、C程序员阅读|,电子工业出版社,69.80元
+Head First Python（中文版）,巴里（Barry.P.）,你想过可以通过一本书就学会Python吗？《Head First Python(中文版)》超越枯燥的语法和甩法手册，通过一种独特的方法教你学习这种语言。你会迅速掌握Python的基础知识，然后转向持久存储、异常处理、Web开发、SQLite、数据加工和lGoogle App Engine。你还将学习如何为Android编写移动应用，这都要归功于Python为你赋予的强大能力。本书会提供充分并且完备的学习体验，帮助你成为一名真正的Python程序员。    作者巴里觉得你的时间相当宝贵，不应当过多地花费在与新概念的纠缠之中。通过应用认知科学和学习理论的最新研究成果，《Head First Python(中文版)》可以让你投入一个需要多感官参与的学习体验，这本书采用丰富直观的形式使你的大脑真正开动起来，而不是长篇累牍地说教，让你昏昏欲睡。,中国电力出版社,68.00元
+机器学习系统设计,|[德] Willi Richert,Luis Pedro Coelho|,|如今，机器学习正在互联网上下掀起热潮，而Python则是非常适合开发机器学习系统的一门优秀语言。作为动态语言，它支持快速探索和实验，并且针对Python的机器学习算法库的数量也与日俱增。本书最大的特色，就是结合实例分析教会读者如何通过机器学习解决实际问题。
+本书将向读者展示如何从原始数据中发现模式，首先从Python与机器学习的关系讲起，再介绍一些库，然后就开始基于数据集进行比较正式的项目开发了，涉及建模、推荐及改进，以及声音与图像处理。通过流行的开源库，我们可以掌握如何高效处理文本、图片和声音。同时，读者也能掌握如何评估、比较和选择适用的机器学习技术。
+举几个例子，我们会介绍怎么把StackOverflow的回答按质量高低进行分类，怎么知道某个音乐文件是爵士风格，还是重金属摇滚风格。另外，本书还涵盖了主题建模、购物习性分析及云计算等高级内容。总之，通过学习本书，读者可以掌握构建自己所需系统的各方面知识，并且学以致用，解决自己面临的现实问题。
+读者只要具有一定的Python编程经验，能够自己安装和使用开源库，就足够了，即使对机器学习一点了解都没有也没关系。本书不会讲机器学习算法背后的数学。|,人民邮电出版社,CNY 49.00
+Python Cookbook,|Alex Martelli,Anna Ravenscroft,David Ascher|,|本书介绍了Python应用在各个领域中的一些使用技巧和方法，从最基本的字符、文件序列、字典和排序，到进阶的面向对象编程、数据库和数据持久化、 XML处理和Web编程，再到比较高级和抽象的描述符、装饰器、元类、迭代器和生成器，均有涉及。书中还介绍了一些第三方包和库的使用，包括 Twisted、GIL、PyWin32等。本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中的代码和方法具有很强的实用性，可以方便地应用到实际的项目中，并产生立竿见影的效果。尤为难得的是，本书的各位作者都具有丰富的业界实践经验，因此，本书不仅给出了对各种问题的解决方案，同时还体现了很多专家的思维方式和良好的编程习惯，与具体的细节性知识相比，这部分内容无疑是本书的精华。
+本书适合具有一定Python基础的读者阅读参考。|,人民邮电出版社,99.00元
+Learning Python,Mark Lutz,|Amazon.com Review
+The authors of Learning Python show you enough essentials of the Python scripting language to enable you to begin solving problems right away, then reveal more powerful aspects of the language one at a time. This approach is sure to appeal to programmers and system administrators who have urgent problems and a preference for learning by semi-guided experimentation.
+First off, Learning Python shows the relationships among Python scripts and their interpreter (in a mostly platform-neutral way). Then, the authors address the mechanics of the language itself, providing illustrations of how Python conceives of numbers, strings, and other objects as well as the operators you use to work with them. Dictionaries, lists, tuples, and other data structures specific to Python receive plenty of attention including complete examples.
+Authors Mark Lutz and David Ascher build on that fundamental information in their discussions of functions and modules, which evolve into coverage of namespaces, classes, and the object-oriented aspects of Python programming. There's also information on creating graphical user interfaces (GUIs) for Python applications with Tkinter.
+In addition to its careful expository prose, Learning Python includes exercises that both test your Python skills and help reveal more elusive truths about the language. --This text refers to an out of print or unavailable edition of this title.
+Review
+As a book for programmers who want to learn Python, it does a very good job. The coverage is informative and well order; making it easy to find what you're looking for. Overall, if you do some work with Python, you will benefit from owning this book. " - Sam Smith, news@UK, March "This book is a good example of Python culture, in the clarity of its text as much as in the quality of its code. Anyhone working their way through it will have a solid foundation upon which to explore Python's potential. Highly recommended." - Ivan Uemilianin, CVu, October 2004 --This text refers to the Paperback edition.|,O'Reilly Media,USD 54.99
+Python金融大数据分析,[德] 伊夫·希尔皮斯科,|唯一一本详细讲解使用Python分析处理金融大数据的专业图书；金融应用开发领域从业人员必读。
+Python凭借其简单、易读、可扩展性以及拥有巨大而活跃的科学计算社区，在需要分析、处理大量数据的金融行业得到了广泛而迅速的应用，并且成为该行业开发核心应用的首选编程语言。《Python金融大数据分析》提供了使用Python进行数据分析，以及开发相关应用程序的技巧和工具。
+《Python金融大数据分析》总计分为3部分，共19章，第1部分介绍了Python在金融学中的应用，其内容涵盖了Python用于金融行业的原因、Python的基础架构和工具，以及Python在计量金融学中的一些具体入门实例；第2部分介绍了金融分析和应用程序开发中最重要的Python库、技术和方法，其内容涵盖了Python的数据类型和结构、用matplotlib进行数据可视化、金融时间序列数据处理、高性能输入\/输出操作、高性能的Python技术和库、金融学中需要的多种数学工具、随机数生成和随机过程模拟、Python统计学应用、Python和Excel的集成、Python面向对象编程和GUI的开发、Python与Web技术的集成，以及基于Web应用和Web服务的开发；第3部分关注的是蒙特卡洛模拟期权与衍生品定价实际应用的开发工作，其内容涵盖了估值框架的介绍、金融模型的模拟、衍生品的估值、投资组合的估值、波动率期权等知识。
+《Python金融大数据分析》适合对使用Python进行大数据分析、处理感兴趣的金融行业开发人员阅读。|,人民邮电出版社,CNY 99.00
+Python Web开发实战,董伟明,|这本书涵盖了Web开发的方方面面，可以分为如下部分：
+1. 使用最新的Flask 0.11进行Web开发，学习Jinja2、Flask-Script、Flask-Migrate、Flask-Security、Flask-Assets等8种常用扩展，帮助读者理解Flask 的 优秀设计（上下文、BluePrint等），最后利用Mako、Flask_mako、SQLAlchemy、Pillow等技术实现一个豆瓣一个真实的服务。
+2. 阐述笔者对REST的理解，并提出一些设计API的注意事项，最后通过jQuery和fetch实现使用Ajax的例子，让读者了解如何让前后端通信。
+3. 对Python应用服务器，Web服务器、缓存系统、键值对数据库等技术的选型和使用方法，最后演示大型网站架构及其重要组件的用意。
+4. 使用Fabric、SaltStack、Ansible、Supervisor、Graphite等做系统管理，并演示一个通过最新的Sentry 8演示如何收集应用错误信息。
+5. 测试和持续集成，最后使用最新的Buildbot 0.9实现一个Github项目的持续集成。
+6. 深入RabbitMQ和Celery的原理和使用方法，最后分享笔者使用的进阶实践。
+7. 服务化及豆瓣服务化实践。
+8. 详细讲解豆瓣工程师都在用的DPark，包含安装、环境配置、使用和框架化分析uv&pv，接着将展示几个笔者实际工作中的数据报表需求，并讲解如何用Pandas做数据可视化。
+9. 深入IPython和Jupyter Notebook这两个工具，并分享在豆瓣对应的实践。
+10. 从获取Linux服务器的相关情况、性能测试、分析Python程序性能瓶颈三个方面展示对应的工具及使用方法。
+11. 以抓取微信公众号文章为主线，分别使用多线程、多进程、Gevent、Future和asyncio这5种编程方式完成不同阶段的爬取任务，也深入地分析在它们之间如何选择。
+12. Python进阶和Web项目经验。
+封底推荐语
+伟明把他个人多年 Web 开发的经验，以及豆瓣十年来数百名优秀工程师在 Web 开发上最佳实践的积累，凝聚在了《Python Web 开发实战》这本书里，多维度、全面地介绍了 Python Web 开发涉及的各种技术。我向所有有兴趣使用 Python 做 Web 开发的开发者们，强烈推荐此书。
+——洪强宁，爱因互动CTO，前豆瓣首席架构师，前宜信大数据创新中心首席架构师
+感谢伟明把豆瓣的一些工程实践进行了整理和总结，这是本书最宝贵的一点，库谁都会用，但在什么场景使用，在生产环境中这个库的表现到底如何，是这本书的一个精华，期望将来还可以看到越来越多这样的图书，祝此书大卖。
+——清风，SAY CEO，前豆瓣技术总监。
+伟明将自身在 Web 领域所有方面的经验提炼后整理成书，本质上是将几十个关联产品的官方文档，结合具体工程经验进行了梳理，给出了领域问题最佳方案的关键思考点和自己的答案，而更加可贵的是，给出了这些思考点的来源，以及形成过程，即给出了解决各种 Web 领域问题的思维模式。
+——Zoom.Quiet（大妈），优视眼动科技 CTO，Python 中文社区创始人之一和管理员
+阅读本书，我最大的感受就是：全和新。本书的内容涉及了Web框架、Ajax的前后端交互、测试、数据库、数据分析、服务化、部署、系统管理、常用工具等内容，有点百科全书的意味。另外，书中讲的许多东西都是现在正在流行的技术或工具，像Flask、Celery、Jupyter、Supervisor、SaltStack、Pandas等。
+——李迎辉，Python开源资深行者，Python-CN邮件列表创建人，UliPad和Uliweb作者
+本书由Python开发开始，循序渐进，把网站工程的全貌展现在读者的眼前，是了解Web工程从开发到上线完整流程的绝佳参考书籍。
+——邢犇（CNBorn）, 前豆瓣东西技术负责人
+很多刚进入Python世界的人，伟明的这本书提供了一个非常好的“知识地图”，书中涉及了Python Web开发的方方面面。
+——胡阳（the5fire），手机搜狐网，任资深开发工程师
+这本书从开发环境的搭建，Web 框架的使用，到最后的持续集成和 Python 的进阶用法，无一不是他多年的实际工程经验总结，十分宝贵。
+——姚钢强（acmerfight），知乎工程师
+这本书非常全面地介绍了使用 Python 进行 Web 开发的方方面面，既有 Web 框架、缓存、消息队列、并发处理的场景介绍和技术选型，又有开发流程、质量保证的丰富实战经验。
+——蔡斌（VeryCB），DeepDevelop工程师，前豆瓣条目组技术负责人
+整本书都是作者对实际Web项目中大量实战经验的总结，绝非纸上谈兵。相信通过阅读该书可以帮助开发者规避掉大量项目中的“坑”，构建出更高性能、更稳定的Web项目。
+——Spawnris, 腾讯工程师|,电子工业出版社,105
+利用Python进行数据分析,Wes McKinney,|【名人推荐】
+“科学计算和数据分析社区已经等待这本书很多年了：大量具体的实践建议，以及大量综合应用方法。本书在未来几年里肯定会成为Python领域中技术计算的权威指南。”
+——Fernando Pérez　加州大学伯克利分校 研究科学家， IPython的创始人之一
+【内容简介】
+还在苦苦寻觅用Python控制、处理、整理、分析结构化数据的完整课程？本书含有大量的实践案例，你将学会如何利用各种Python库（包括NumPy、pandas、matplotlib以及IPython等）高效地解决各式各样的数据分析问题。
+由于作者Wes McKinney是pandas库的主要作者，所以本书也可以作为利用Python实现数据密集型应用的科学计算实践指南。本书适合刚刚接触Python的分析人员以及刚刚接触科学计算的Python程序员。
+•将IPython这个交互式Shell作为你的首要开发环境。
+•学习NumPy（Numerical Python）的基础和高级知识。
+•从pandas库的数据分析工具开始。
+•利用高性能工具对数据进行加载、清理、转换、合并以及重塑。
+•利用matplotlib创建散点图以及静态或交互式的可视化结果。
+•利用pandas的groupby功能对数据集进行切片、切块和汇总操作。
+•处理各种各样的时间序列数据。
+•通过详细的案例学习如何解决Web分析、社会科学、金融学以及经•济学等领域的问题。|,机械工业出版社,89.00
+Flask Web开发：基于Python的Web应用开发实战,[美] Miguel Grinberg,|本书不仅适合初级Web开发人员学习阅读，更是Python程序员用来学习高级Web开发技术的优秀参考书。
+•	学习Flask应用的基本结构，编写示例应用；
+•	使用必备的组件，包括模板、数据库、Web表单和电子邮件支持；
+•	使用包和模块构建可伸缩的大型应用；
+•	实现用户认证、角色和个人资料；
+•	在博客网站中重用模板、分页显示列表以及使用富文本；
+•	使用基于Flask的REST式API，在智能手机、平板电脑和其他第三方客户端上实现可用功能；
+•	学习运行单元测试以及提升性能；
+•	将Web应用部署到生产服务器。|,人民邮电出版社,59.00元
+Python基础教程,Magnus Lie Hetland,本书是经典教程的全新改版，作者根据Python 3.0版本的种种变化，全面改写了书中内容，做到既能“瞻前”也能“顾后”。本书层次鲜明、结构严谨、内容翔实，特别是在最后几章，作者将前面讲述的内容应用到了10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程。本书既适合初学者夯实基础，又能帮助Python程序员提升技能，即使是 Python方面的技术专家，也能从书里找到令你耳目一新的东西。,人民邮电出版社,69.00元
+Python核心编程（第二版）,[美]Wesley J. Chun（陳仲才）,|本书是Python开发者的完全指南——针对 Python 2.5全面升级
+·学习专业的Python风格、最佳实践和好的编程习惯；
+·加强对Python对象、内存模型和Python面向对象特性的深入理解；
+·构建更有效的Web、CGI、互联网、网络和其他客户端\/服务器架构应用程序及软件；
+·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；
+·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I\/0相关的应用程序的能力；
+·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。|,人民邮电出版社,89.00元
+"笨办法"学Python,肖 (Zed A.Shaw),|本书是一本Python入门书籍，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。
+本书结构非常简单，共包括52个习题，其中26个覆盖了输入\/输出、变量和函数三个主题，另外26个覆盖了一些比较高级的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
+Zed Shaw完善了这个堪称世上最好的Python学习系统。只要跟着学习，你就会和迄今为止数十万Zed教过的初学者一样获得成功。
+在这本书中，你将通过完成52个精心设计的习题来学会Python。阅读这些习题，把习题的代码精确地写出来（禁止复制和粘贴！），修正你的错误，观察程序的运行。在这个过程中，你将了解软件是如何工作的，好的程序看起来是什么样子，怎样阅读、编写、思考代码，以及如何用专业程序员的技巧来找出并修正错误。最重要的是，你将学到下面这些编写优秀的Python软件必需的初始技能。
+这本书会让你的每一分钟投入都有回报。Python是世界上最强大、最受欢迎的编程语言之一，很快你就会成为一名Python程序员。
+你还可以看Zed的视频！随书附赠的DVD中包含5个多小时激情挥洒的教学内容：一部完整的Python视频教程！|,人民邮电出版社,CNY 49.00
+Python学习手册,Mark Lutz,|《Python学习手册(第3版)》讲述了：Python可移植、功能强大、易于使用，是编写独立应用程序和脚本应用程序的理想选择。无论你是刚接触编程或者刚接触Python，通过学习《Python学习手册(第3版)》，你可以迅速高效地精通核心Python语言基础。读完《Python学习手册(第3版)》，你会对这门语言有足够的了解，从而可以在你所从事的任何应用领域中使用它。
+《Python学习手册(第3版)》是作者根据过去10年用于教学而广为人知的培训课程的材料编写而成的。除了有许多详实说明和每章小结之外，每章还包括一个头脑风暴：这是《Python学习手册(第3版)》独特的一部分，配合以实用的练习题和复习题，让读者练习新学的技巧并测试自己的理解程度。
+《Python学习手册(第3版)》包括：
+类型和操作——深入讨论Python主要的内置对象类型：数字、列表和字典等。
+语句和语法——在Python中输入代码来建立并处理对象，以及Python一般的语法模型。
+函数——Python基本的面向过程工具，用于组织代码和重用。
+模块——封装语句、函数以及其他工具，从而可以组织成较大的组件。
+类和OOP——Python可选的面向对象编程工具，可用于组织程序代码从而实现定制和重用。
+异常和工具——异常处理模型和语句，并介绍编写更大程序的开发工具。
+讨论Python 3.0。
+《Python学习手册(第3版)》让你对Python语言有深入而完整的了解，从而帮助你理解今后遇到的任何Python应用程序实例。如果你准备探索Google和YouTube为什么选中了Python，《Python学习手册(第3版)》就是你入门的最佳指南。|,机械工业出版社,89.00元
+Python编程快速上手,斯维加特 (Al Sweigart),|如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。通过Python编程，我们能够解决现实生活中的很多任务。
+本书是一本面向实践的Python编程实用指南。本书的目的，不仅是介绍Python语言的基础知识，而且还通过项目实践教会读者如何应用这些知识和技能。本书的首部分介绍了基本Python编程概念，第二部分介绍了一些不同的任务，通过编写Python程序，可以让计算机自动完成它们。第二部分的每一章都有一些项目程序，供读者学习。每章的末尾还提供了一些习题和深入的实践项目，帮助读者巩固所学的知识。附录部分提供了所有习题的解答。
+本书适合任何想要通过Python学习编程的读者，尤其适合缺乏编程基础的初学者。通过阅读本书，读者将能利用强大的编程语言和工具，并且会体会到Python编程的快乐。|,人民邮电出版社,CNY 69.00
+流畅的Python,[巴西] Luciano Ramalho,|【技术大咖推荐】
+“很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员
+“对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者
+【本书特色】
+本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Python代码。
+●	Python数据模型：理解为什么特殊方法是对象行为一致的关键。
+●	数据结构：充分利用内置类型，理解Unicode文本和字节二象性。
+●	把函数视作对象：把Python函数视作一等对象，并了解这一点对流行的设计模式的影响。
+●	面向对象习惯用法：通过构建类学习引用、可变性、接口、运算符重载和多重继承。
+●	控制流程：学习使用上下文管理器、生成器、协程，以及通过concurrent.futures和asyncio包实现的并发。
+●	元编程：理解特性、描述符、类装饰器和元类的工作原理。
+【主要内容】
+本书致力于帮助Python开发人员挖掘这门语言及相关程序库的优秀特性，避免重复劳动，同时写出简洁、流畅、易读、易维护，并且具有地道Python风格的代码。本书尤其深入探讨了Python语言的高级用法，涵盖数据结构、Python风格的对象、并行与并发，以及元编程等不同的方面。
+本书适合中高级Python软件开发人员阅读参考。
+【译者简介】
+安道
+专注于现代计算机技术的自由翻译，译有《Flask Web 开发》《Python 网络编程攻略》《Ruby on Rails 教程》等书。
+个人网站：http:\/\/about.ac\/。
+吴珂
+现为Airbnb公司软件工程师，所在团队主要负责开发和维护各类可伸缩、高性能服务，并在Airbnb内推广面向服务的系统架构。在分布式系统、云存储服务和跨平台SDK开发，以及大规模数据处理等方面有多年经验。|,人民邮电出版社,139元
+Python学习手册（第4版）,[美] Mark Lutz,|Google和YouTube由于Python的高可适应性、易于维护以及适合于快速开发而采用它。如果你想要编写高质量、高效的并且易于与其他语言和工具集成的代码，《Python学习手册：第4 版》将帮助你使用Python快速实现这一点，不管你是编程新手还是Python初学者。本书是易于掌握和自学的教程，根据作者Python专家Mark Lutz的著名培训课程编写而成。
+《Python学习手册：第4版》每一章都包含关于Python语言的关键内容的独立的一课，并且包含了一个独特的“练习题”部分，其中带有实际的练习和测试，以便你可以练习新的技能并随着学习而测试自己的理解。你会发现众多带有注释的示例以及图表，它们将帮助你开始学习Python 3.0。
+《Python学习手册：第4版》包括以下内容：
+学习Python的主要内建对象类型：数字、列表和字典。
+使用Python语句创建和处理对象，并且学习Python的通用语法模型。
+使用函数构造和重用代码，函数是Python的基本过程工具。
+学习Python模块：封装语句、函数以及其他工具，从而可以组织成较大的组件。
+Python的面向对象编程工具，用于组织程序代码。
+学习异常处理模型，以及用于编写较大程序的开发工具。
+了解包括装饰器、描述器、元类和Unicode处理等高级Python工具。|,机械工业出版社,119.00元
+Fluent Python,Luciano Ramalho,|Learn how to write idiomatic, effective Python code by leveraging its best features. Python's simplicity quickly lets you become productive with it, but this often means you aren’t using everything the language has to offer. By taking you through Python’s key language features and libraries, this practical book shows you how to make your code shorter, faster, and more readable all at the same time—what experts consider Pythonic.
+Many programmers who learn Python basics fall into the trap of reinventing the wheel because of past experience in other languages, and try to bend the language to patterns that don't really apply to it. Author Luciano Ramalho, a Python Software Foundation member and Python programmer for 15 years, helps you drop your accent from another language so you can code Python fluently.
+•Learn practical applications of generators for database processing
+•Rethink some design patterns in a Python context
+•Examine attribute descriptors and when to use them: the key to ORMs
+•Explore Pythonic objects: protocols versus interfaces, abstract base classes and multiple inheritance|,O'Reilly Media,USD 39.99
+Python for Data Analysis,Wes McKinney,|Finding great data analysts is difficult. Despite the explosive growth of data in industries ranging from manufacturing and retail to high technology, finance, and healthcare, learning and accessing data analysis tools has remained a challenge. This pragmatic guide will help train you in one of the most important tools in the field - Python. Filled with practical case studies, Python for Data Analysis demonstrates the nuts and bolts of manipulating, processing, cleaning, and crunching data with Python. It also serves as a modern introduction to scientific computing in Python for data-intensive applications. Learn about the growing field of data analysis from an expert in the community. Learn everything you need to start doing real data analysis work with Python Get the most complete instruction on the basics of the "modern scientific Python platform" Learn from an insider who builds tools for the scientific stack Get an excellent introduction for novices and a wealth of advanced methods for experienced analysts|,O'Reilly Media,USD 39.99
+A Byte of Python,Swaroop C H,|'A Byte of Python' is a book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.|,Lulu Marketplace,USD 27.98
+Python源码剖析,陈儒,|作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C\/C++编写Python的扩展模块，还能将Python嵌入到C\/C++程序中，为自己的系统添加动态扩展和动态编程的能力。.
+为了更好地利用Python语言，无论是使用Python语言本身，还是将Python与C\/C++交互使用，深刻理解Python的运行原理都是非常重要的。本书以CPython为研究对象，在C代码一级，深入细致地剖析了Python的实现。书中不仅包括了对大量Python内置对象的剖析，更将大量的篇幅用于对Python虚拟机及Python高级特性的剖析。通过此书，读者能够透彻地理解Python中的一般表达式、控制结构、异常机制、类机制、多线程机制、模块的动态加载机制、内存管理机制等核心技术的运行原理，同时，本书所揭示的动态语言的核心技术对于理解其他动态语言，如 Javascript、Ruby等也有较大的参考价值。..
+本书适合于Python程序员、动态语言爱好者、C程序员阅读|,电子工业出版社,69.80元
+Head First Python（中文版）,巴里（Barry.P.）,你想过可以通过一本书就学会Python吗？《Head First Python(中文版)》超越枯燥的语法和甩法手册，通过一种独特的方法教你学习这种语言。你会迅速掌握Python的基础知识，然后转向持久存储、异常处理、Web开发、SQLite、数据加工和lGoogle App Engine。你还将学习如何为Android编写移动应用，这都要归功于Python为你赋予的强大能力。本书会提供充分并且完备的学习体验，帮助你成为一名真正的Python程序员。    作者巴里觉得你的时间相当宝贵，不应当过多地花费在与新概念的纠缠之中。通过应用认知科学和学习理论的最新研究成果，《Head First Python(中文版)》可以让你投入一个需要多感官参与的学习体验，这本书采用丰富直观的形式使你的大脑真正开动起来，而不是长篇累牍地说教，让你昏昏欲睡。,中国电力出版社,68.00元
+机器学习系统设计,|[德] Willi Richert,Luis Pedro Coelho|,|如今，机器学习正在互联网上下掀起热潮，而Python则是非常适合开发机器学习系统的一门优秀语言。作为动态语言，它支持快速探索和实验，并且针对Python的机器学习算法库的数量也与日俱增。本书最大的特色，就是结合实例分析教会读者如何通过机器学习解决实际问题。
+本书将向读者展示如何从原始数据中发现模式，首先从Python与机器学习的关系讲起，再介绍一些库，然后就开始基于数据集进行比较正式的项目开发了，涉及建模、推荐及改进，以及声音与图像处理。通过流行的开源库，我们可以掌握如何高效处理文本、图片和声音。同时，读者也能掌握如何评估、比较和选择适用的机器学习技术。
+举几个例子，我们会介绍怎么把StackOverflow的回答按质量高低进行分类，怎么知道某个音乐文件是爵士风格，还是重金属摇滚风格。另外，本书还涵盖了主题建模、购物习性分析及云计算等高级内容。总之，通过学习本书，读者可以掌握构建自己所需系统的各方面知识，并且学以致用，解决自己面临的现实问题。
+读者只要具有一定的Python编程经验，能够自己安装和使用开源库，就足够了，即使对机器学习一点了解都没有也没关系。本书不会讲机器学习算法背后的数学。|,人民邮电出版社,CNY 49.00
+Python Cookbook,|Alex Martelli,Anna Ravenscroft,David Ascher|,|本书介绍了Python应用在各个领域中的一些使用技巧和方法，从最基本的字符、文件序列、字典和排序，到进阶的面向对象编程、数据库和数据持久化、 XML处理和Web编程，再到比较高级和抽象的描述符、装饰器、元类、迭代器和生成器，均有涉及。书中还介绍了一些第三方包和库的使用，包括 Twisted、GIL、PyWin32等。本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中的代码和方法具有很强的实用性，可以方便地应用到实际的项目中，并产生立竿见影的效果。尤为难得的是，本书的各位作者都具有丰富的业界实践经验，因此，本书不仅给出了对各种问题的解决方案，同时还体现了很多专家的思维方式和良好的编程习惯，与具体的细节性知识相比，这部分内容无疑是本书的精华。
+本书适合具有一定Python基础的读者阅读参考。|,人民邮电出版社,99.00元
+Learning Python,Mark Lutz,|Amazon.com Review
+The authors of Learning Python show you enough essentials of the Python scripting language to enable you to begin solving problems right away, then reveal more powerful aspects of the language one at a time. This approach is sure to appeal to programmers and system administrators who have urgent problems and a preference for learning by semi-guided experimentation.
+First off, Learning Python shows the relationships among Python scripts and their interpreter (in a mostly platform-neutral way). Then, the authors address the mechanics of the language itself, providing illustrations of how Python conceives of numbers, strings, and other objects as well as the operators you use to work with them. Dictionaries, lists, tuples, and other data structures specific to Python receive plenty of attention including complete examples.
+Authors Mark Lutz and David Ascher build on that fundamental information in their discussions of functions and modules, which evolve into coverage of namespaces, classes, and the object-oriented aspects of Python programming. There's also information on creating graphical user interfaces (GUIs) for Python applications with Tkinter.
+In addition to its careful expository prose, Learning Python includes exercises that both test your Python skills and help reveal more elusive truths about the language. --This text refers to an out of print or unavailable edition of this title.
+Review
+As a book for programmers who want to learn Python, it does a very good job. The coverage is informative and well order; making it easy to find what you're looking for. Overall, if you do some work with Python, you will benefit from owning this book. " - Sam Smith, news@UK, March "This book is a good example of Python culture, in the clarity of its text as much as in the quality of its code. Anyhone working their way through it will have a solid foundation upon which to explore Python's potential. Highly recommended." - Ivan Uemilianin, CVu, October 2004 --This text refers to the Paperback edition.|,O'Reilly Media,USD 54.99
+Python金融大数据分析,[德] 伊夫·希尔皮斯科,|唯一一本详细讲解使用Python分析处理金融大数据的专业图书；金融应用开发领域从业人员必读。
+Python凭借其简单、易读、可扩展性以及拥有巨大而活跃的科学计算社区，在需要分析、处理大量数据的金融行业得到了广泛而迅速的应用，并且成为该行业开发核心应用的首选编程语言。《Python金融大数据分析》提供了使用Python进行数据分析，以及开发相关应用程序的技巧和工具。
+《Python金融大数据分析》总计分为3部分，共19章，第1部分介绍了Python在金融学中的应用，其内容涵盖了Python用于金融行业的原因、Python的基础架构和工具，以及Python在计量金融学中的一些具体入门实例；第2部分介绍了金融分析和应用程序开发中最重要的Python库、技术和方法，其内容涵盖了Python的数据类型和结构、用matplotlib进行数据可视化、金融时间序列数据处理、高性能输入\/输出操作、高性能的Python技术和库、金融学中需要的多种数学工具、随机数生成和随机过程模拟、Python统计学应用、Python和Excel的集成、Python面向对象编程和GUI的开发、Python与Web技术的集成，以及基于Web应用和Web服务的开发；第3部分关注的是蒙特卡洛模拟期权与衍生品定价实际应用的开发工作，其内容涵盖了估值框架的介绍、金融模型的模拟、衍生品的估值、投资组合的估值、波动率期权等知识。
+《Python金融大数据分析》适合对使用Python进行大数据分析、处理感兴趣的金融行业开发人员阅读。|,人民邮电出版社,CNY 99.00
+Python Web开发实战,董伟明,|这本书涵盖了Web开发的方方面面，可以分为如下部分：
+1. 使用最新的Flask 0.11进行Web开发，学习Jinja2、Flask-Script、Flask-Migrate、Flask-Security、Flask-Assets等8种常用扩展，帮助读者理解Flask 的 优秀设计（上下文、BluePrint等），最后利用Mako、Flask_mako、SQLAlchemy、Pillow等技术实现一个豆瓣一个真实的服务。
+2. 阐述笔者对REST的理解，并提出一些设计API的注意事项，最后通过jQuery和fetch实现使用Ajax的例子，让读者了解如何让前后端通信。
+3. 对Python应用服务器，Web服务器、缓存系统、键值对数据库等技术的选型和使用方法，最后演示大型网站架构及其重要组件的用意。
+4. 使用Fabric、SaltStack、Ansible、Supervisor、Graphite等做系统管理，并演示一个通过最新的Sentry 8演示如何收集应用错误信息。
+5. 测试和持续集成，最后使用最新的Buildbot 0.9实现一个Github项目的持续集成。
+6. 深入RabbitMQ和Celery的原理和使用方法，最后分享笔者使用的进阶实践。
+7. 服务化及豆瓣服务化实践。
+8. 详细讲解豆瓣工程师都在用的DPark，包含安装、环境配置、使用和框架化分析uv&pv，接着将展示几个笔者实际工作中的数据报表需求，并讲解如何用Pandas做数据可视化。
+9. 深入IPython和Jupyter Notebook这两个工具，并分享在豆瓣对应的实践。
+10. 从获取Linux服务器的相关情况、性能测试、分析Python程序性能瓶颈三个方面展示对应的工具及使用方法。
+11. 以抓取微信公众号文章为主线，分别使用多线程、多进程、Gevent、Future和asyncio这5种编程方式完成不同阶段的爬取任务，也深入地分析在它们之间如何选择。
+12. Python进阶和Web项目经验。
+封底推荐语
+伟明把他个人多年 Web 开发的经验，以及豆瓣十年来数百名优秀工程师在 Web 开发上最佳实践的积累，凝聚在了《Python Web 开发实战》这本书里，多维度、全面地介绍了 Python Web 开发涉及的各种技术。我向所有有兴趣使用 Python 做 Web 开发的开发者们，强烈推荐此书。
+——洪强宁，爱因互动CTO，前豆瓣首席架构师，前宜信大数据创新中心首席架构师
+感谢伟明把豆瓣的一些工程实践进行了整理和总结，这是本书最宝贵的一点，库谁都会用，但在什么场景使用，在生产环境中这个库的表现到底如何，是这本书的一个精华，期望将来还可以看到越来越多这样的图书，祝此书大卖。
+——清风，SAY CEO，前豆瓣技术总监。
+伟明将自身在 Web 领域所有方面的经验提炼后整理成书，本质上是将几十个关联产品的官方文档，结合具体工程经验进行了梳理，给出了领域问题最佳方案的关键思考点和自己的答案，而更加可贵的是，给出了这些思考点的来源，以及形成过程，即给出了解决各种 Web 领域问题的思维模式。
+——Zoom.Quiet（大妈），优视眼动科技 CTO，Python 中文社区创始人之一和管理员
+阅读本书，我最大的感受就是：全和新。本书的内容涉及了Web框架、Ajax的前后端交互、测试、数据库、数据分析、服务化、部署、系统管理、常用工具等内容，有点百科全书的意味。另外，书中讲的许多东西都是现在正在流行的技术或工具，像Flask、Celery、Jupyter、Supervisor、SaltStack、Pandas等。
+——李迎辉，Python开源资深行者，Python-CN邮件列表创建人，UliPad和Uliweb作者
+本书由Python开发开始，循序渐进，把网站工程的全貌展现在读者的眼前，是了解Web工程从开发到上线完整流程的绝佳参考书籍。
+——邢犇（CNBorn）, 前豆瓣东西技术负责人
+很多刚进入Python世界的人，伟明的这本书提供了一个非常好的“知识地图”，书中涉及了Python Web开发的方方面面。
+——胡阳（the5fire），手机搜狐网，任资深开发工程师
+这本书从开发环境的搭建，Web 框架的使用，到最后的持续集成和 Python 的进阶用法，无一不是他多年的实际工程经验总结，十分宝贵。
+——姚钢强（acmerfight），知乎工程师
+这本书非常全面地介绍了使用 Python 进行 Web 开发的方方面面，既有 Web 框架、缓存、消息队列、并发处理的场景介绍和技术选型，又有开发流程、质量保证的丰富实战经验。
+——蔡斌（VeryCB），DeepDevelop工程师，前豆瓣条目组技术负责人
+整本书都是作者对实际Web项目中大量实战经验的总结，绝非纸上谈兵。相信通过阅读该书可以帮助开发者规避掉大量项目中的“坑”，构建出更高性能、更稳定的Web项目。
+——Spawnris, 腾讯工程师|,电子工业出版社,105
+Python灰帽子,[美] Justin Seitz,《Python灰帽子》是由知名安全机构Immunity Inc的资深黑帽Justin Seitz主笔撰写的一本关于编程语言Python如何被广泛应用于黑客与逆向工程领域的书籍。老牌黑客，同时也是Immunity Inc的创始人兼首席技术执行官（CTO）Dave Aitel为这本书担任了技术编辑一职。书中绝大部分篇幅着眼于黑客技术领域中的两大经久不衰的话题：逆向工程与漏洞挖掘，并向读者呈现了几乎每个逆向工程师或安全研究人员在日常工作中所面临的各种场景，其中包括：如何设计与构建自己的调试工具，如何自动化实现烦琐的逆向分析任务，如何设计与构建自己的fuzzing工具，如何利用fuzzing 测试来找出存在于软件产品中的安全漏洞，一些小技巧诸如钩子与注入技术的应用，以及对一些主流Python安全工具如PyDbg、 Immunity Debugger、Sulley、IDAPython、PyEmu等的深入介绍。作者借助于如今黑客社区中备受青睐的编程语言 Python引领读者构建出精悍的脚本程序来一一应对上述这些问题。出现在书中的相当一部分Python代码实例借鉴或直接来源于一些优秀的开源安全项目，诸如Pedram Amini的Paimei，由此读者可以领略到安全研究者们是如何将黑客艺术与工程技术优雅融合来解决那些棘手问题的。,电子工业出版社,39.00元
+Flask Web开发：基于Python的Web应用开发实战,[美] Miguel Grinberg,|本书不仅适合初级Web开发人员学习阅读，更是Python程序员用来学习高级Web开发技术的优秀参考书。
+•	学习Flask应用的基本结构，编写示例应用；
+•	使用必备的组件，包括模板、数据库、Web表单和电子邮件支持；
+•	使用包和模块构建可伸缩的大型应用；
+•	实现用户认证、角色和个人资料；
+•	在博客网站中重用模板、分页显示列表以及使用富文本；
+•	使用基于Flask的REST式API，在智能手机、平板电脑和其他第三方客户端上实现可用功能；
+•	学习运行单元测试以及提升性能；
+•	将Web应用部署到生产服务器。|,人民邮电出版社,59.00元
+Python基础教程,Magnus Lie Hetland,本书是经典教程的全新改版，作者根据Python 3.0版本的种种变化，全面改写了书中内容，做到既能“瞻前”也能“顾后”。本书层次鲜明、结构严谨、内容翔实，特别是在最后几章，作者将前面讲述的内容应用到了10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程。本书既适合初学者夯实基础，又能帮助Python程序员提升技能，即使是 Python方面的技术专家，也能从书里找到令你耳目一新的东西。,人民邮电出版社,69.00元
+Python核心编程（第二版）,[美]Wesley J. Chun（陳仲才）,|本书是Python开发者的完全指南——针对 Python 2.5全面升级
+·学习专业的Python风格、最佳实践和好的编程习惯；
+·加强对Python对象、内存模型和Python面向对象特性的深入理解；
+·构建更有效的Web、CGI、互联网、网络和其他客户端\/服务器架构应用程序及软件；
+·学习如何使用Python中的Tkinter和其他工具来开发自己的GUI应用程序及软件；
+·通过用C等语言编写扩展来提升Python应用程序的性能，或者通过使用多线程增强I\/0相关的应用程序的能力；
+·学习Python中有关数据库的API，以及如何在Python中使用各种不同的数据库系统，包括MySQL、Postgres和 SQLite。|,人民邮电出版社,89.00元
+"笨办法"学Python,肖 (Zed A.Shaw),|本书是一本Python入门书籍，适合对计算机了解不多，没有学过编程，但对编程感兴趣的读者学习使用。这本书以习题的方式引导读者一步一步学习编程，从简单的打印一直讲到完整项目的实现，让初学者从基础的编程技术入手，最终体验到软件开发的基本过程。
+本书结构非常简单，共包括52个习题，其中26个覆盖了输入\/输出、变量和函数三个主题，另外26个覆盖了一些比较高级的话题，如条件判断、循环、类和对象、代码测试及项目的实现等。每一章的格式基本相同，以代码习题开始，按照说明编写代码，运行并检查结果，然后再做附加练习。
+Zed Shaw完善了这个堪称世上最好的Python学习系统。只要跟着学习，你就会和迄今为止数十万Zed教过的初学者一样获得成功。
+在这本书中，你将通过完成52个精心设计的习题来学会Python。阅读这些习题，把习题的代码精确地写出来（禁止复制和粘贴！），修正你的错误，观察程序的运行。在这个过程中，你将了解软件是如何工作的，好的程序看起来是什么样子，怎样阅读、编写、思考代码，以及如何用专业程序员的技巧来找出并修正错误。最重要的是，你将学到下面这些编写优秀的Python软件必需的初始技能。
+这本书会让你的每一分钟投入都有回报。Python是世界上最强大、最受欢迎的编程语言之一，很快你就会成为一名Python程序员。
+你还可以看Zed的视频！随书附赠的DVD中包含5个多小时激情挥洒的教学内容：一部完整的Python视频教程！|,人民邮电出版社,CNY 49.00
+Python学习手册,Mark Lutz,|《Python学习手册(第3版)》讲述了：Python可移植、功能强大、易于使用，是编写独立应用程序和脚本应用程序的理想选择。无论你是刚接触编程或者刚接触Python，通过学习《Python学习手册(第3版)》，你可以迅速高效地精通核心Python语言基础。读完《Python学习手册(第3版)》，你会对这门语言有足够的了解，从而可以在你所从事的任何应用领域中使用它。
+《Python学习手册(第3版)》是作者根据过去10年用于教学而广为人知的培训课程的材料编写而成的。除了有许多详实说明和每章小结之外，每章还包括一个头脑风暴：这是《Python学习手册(第3版)》独特的一部分，配合以实用的练习题和复习题，让读者练习新学的技巧并测试自己的理解程度。
+《Python学习手册(第3版)》包括：
+类型和操作——深入讨论Python主要的内置对象类型：数字、列表和字典等。
+语句和语法——在Python中输入代码来建立并处理对象，以及Python一般的语法模型。
+函数——Python基本的面向过程工具，用于组织代码和重用。
+模块——封装语句、函数以及其他工具，从而可以组织成较大的组件。
+类和OOP——Python可选的面向对象编程工具，可用于组织程序代码从而实现定制和重用。
+异常和工具——异常处理模型和语句，并介绍编写更大程序的开发工具。
+讨论Python 3.0。
+《Python学习手册(第3版)》让你对Python语言有深入而完整的了解，从而帮助你理解今后遇到的任何Python应用程序实例。如果你准备探索Google和YouTube为什么选中了Python，《Python学习手册(第3版)》就是你入门的最佳指南。|,机械工业出版社,89.00元
+Python编程快速上手,斯维加特 (Al Sweigart),|如今，人们面临的大多数任务都可以通过编写计算机软件来完成。Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。通过Python编程，我们能够解决现实生活中的很多任务。
+本书是一本面向实践的Python编程实用指南。本书的目的，不仅是介绍Python语言的基础知识，而且还通过项目实践教会读者如何应用这些知识和技能。本书的首部分介绍了基本Python编程概念，第二部分介绍了一些不同的任务，通过编写Python程序，可以让计算机自动完成它们。第二部分的每一章都有一些项目程序，供读者学习。每章的末尾还提供了一些习题和深入的实践项目，帮助读者巩固所学的知识。附录部分提供了所有习题的解答。
+本书适合任何想要通过Python学习编程的读者，尤其适合缺乏编程基础的初学者。通过阅读本书，读者将能利用强大的编程语言和工具，并且会体会到Python编程的快乐。|,人民邮电出版社,CNY 69.00
+流畅的Python,[巴西] Luciano Ramalho,|【技术大咖推荐】
+“很荣幸担任这本优秀图书的技术审校。这本书能帮助很多中级Python程序员掌握这门语言，我也从中学到了相当多的知识！”——Alex Martelli，Python软件基金会成员
+“对于想要扩充知识的中级和高级Python程序员来说，这本书是充满了实用编程技巧的宝藏。”——Daniel Greenfeld和Audrey Roy Greenfeld，Two Scoops of Django作者
+【本书特色】
+本书由奋战在Python开发一线近20年的Luciano Ramalho执笔，Victor Stinner、Alex Martelli等Python大咖担纲技术审稿人，从语言设计层面剖析编程细节，兼顾Python 3和Python 2，告诉你Python中不亲自动手实践就无法理解的语言陷阱成因和解决之道，教你写出风格地道的Python代码。
+●	Python数据模型：理解为什么特殊方法是对象行为一致的关键。
+●	数据结构：充分利用内置类型，理解Unicode文本和字节二象性。
+●	把函数视作对象：把Python函数视作一等对象，并了解这一点对流行的设计模式的影响。
+●	面向对象习惯用法：通过构建类学习引用、可变性、接口、运算符重载和多重继承。
+●	控制流程：学习使用上下文管理器、生成器、协程，以及通过concurrent.futures和asyncio包实现的并发。
+●	元编程：理解特性、描述符、类装饰器和元类的工作原理。
+【主要内容】
+本书致力于帮助Python开发人员挖掘这门语言及相关程序库的优秀特性，避免重复劳动，同时写出简洁、流畅、易读、易维护，并且具有地道Python风格的代码。本书尤其深入探讨了Python语言的高级用法，涵盖数据结构、Python风格的对象、并行与并发，以及元编程等不同的方面。
+本书适合中高级Python软件开发人员阅读参考。
+【译者简介】
+安道
+专注于现代计算机技术的自由翻译，译有《Flask Web 开发》《Python 网络编程攻略》《Ruby on Rails 教程》等书。
+个人网站：http:\/\/about.ac\/。
+吴珂
+现为Airbnb公司软件工程师，所在团队主要负责开发和维护各类可伸缩、高性能服务，并在Airbnb内推广面向服务的系统架构。在分布式系统、云存储服务和跨平台SDK开发，以及大规模数据处理等方面有多年经验。|,人民邮电出版社,139元
+Python学习手册（第4版）,[美] Mark Lutz,|Google和YouTube由于Python的高可适应性、易于维护以及适合于快速开发而采用它。如果你想要编写高质量、高效的并且易于与其他语言和工具集成的代码，《Python学习手册：第4 版》将帮助你使用Python快速实现这一点，不管你是编程新手还是Python初学者。本书是易于掌握和自学的教程，根据作者Python专家Mark Lutz的著名培训课程编写而成。
+《Python学习手册：第4版》每一章都包含关于Python语言的关键内容的独立的一课，并且包含了一个独特的“练习题”部分，其中带有实际的练习和测试，以便你可以练习新的技能并随着学习而测试自己的理解。你会发现众多带有注释的示例以及图表，它们将帮助你开始学习Python 3.0。
+《Python学习手册：第4版》包括以下内容：
+学习Python的主要内建对象类型：数字、列表和字典。
+使用Python语句创建和处理对象，并且学习Python的通用语法模型。
+使用函数构造和重用代码，函数是Python的基本过程工具。
+学习Python模块：封装语句、函数以及其他工具，从而可以组织成较大的组件。
+Python的面向对象编程工具，用于组织程序代码。
+学习异常处理模型，以及用于编写较大程序的开发工具。
+了解包括装饰器、描述器、元类和Unicode处理等高级Python工具。|,机械工业出版社,119.00元
+Fluent Python,Luciano Ramalho,|Learn how to write idiomatic, effective Python code by leveraging its best features. Python's simplicity quickly lets you become productive with it, but this often means you aren’t using everything the language has to offer. By taking you through Python’s key language features and libraries, this practical book shows you how to make your code shorter, faster, and more readable all at the same time—what experts consider Pythonic.
+Many programmers who learn Python basics fall into the trap of reinventing the wheel because of past experience in other languages, and try to bend the language to patterns that don't really apply to it. Author Luciano Ramalho, a Python Software Foundation member and Python programmer for 15 years, helps you drop your accent from another language so you can code Python fluently.
+•Learn practical applications of generators for database processing
+•Rethink some design patterns in a Python context
+•Examine attribute descriptors and when to use them: the key to ORMs
+•Explore Pythonic objects: protocols versus interfaces, abstract base classes and multiple inheritance|,O'Reilly Media,USD 39.99
+Python for Data Analysis,Wes McKinney,|Finding great data analysts is difficult. Despite the explosive growth of data in industries ranging from manufacturing and retail to high technology, finance, and healthcare, learning and accessing data analysis tools has remained a challenge. This pragmatic guide will help train you in one of the most important tools in the field - Python. Filled with practical case studies, Python for Data Analysis demonstrates the nuts and bolts of manipulating, processing, cleaning, and crunching data with Python. It also serves as a modern introduction to scientific computing in Python for data-intensive applications. Learn about the growing field of data analysis from an expert in the community. Learn everything you need to start doing real data analysis work with Python Get the most complete instruction on the basics of the "modern scientific Python platform" Learn from an insider who builds tools for the scientific stack Get an excellent introduction for novices and a wealth of advanced methods for experienced analysts|,O'Reilly Media,USD 39.99
+A Byte of Python,Swaroop C H,|'A Byte of Python' is a book on programming using the Python language. It serves as a tutorial or guide to the Python language for a beginner audience. If all you know about computers is how to save text files, then this is the book for you.|,Lulu Marketplace,USD 27.98
+Python源码剖析,陈儒,|作为主流的动态语言，Python不仅简单易学、移植性好，而且拥有强大丰富的库的支持。此外，Python强大的可扩展性，让开发人员既可以非常容易地利用C\/C++编写Python的扩展模块，还能将Python嵌入到C\/C++程序中，为自己的系统添加动态扩展和动态编程的能力。.
+为了更好地利用Python语言，无论是使用Python语言本身，还是将Python与C\/C++交互使用，深刻理解Python的运行原理都是非常重要的。本书以CPython为研究对象，在C代码一级，深入细致地剖析了Python的实现。书中不仅包括了对大量Python内置对象的剖析，更将大量的篇幅用于对Python虚拟机及Python高级特性的剖析。通过此书，读者能够透彻地理解Python中的一般表达式、控制结构、异常机制、类机制、多线程机制、模块的动态加载机制、内存管理机制等核心技术的运行原理，同时，本书所揭示的动态语言的核心技术对于理解其他动态语言，如 Javascript、Ruby等也有较大的参考价值。..
+本书适合于Python程序员、动态语言爱好者、C程序员阅读|,电子工业出版社,69.80元
+Head First Python（中文版）,巴里（Barry.P.）,你想过可以通过一本书就学会Python吗？《Head First Python(中文版)》超越枯燥的语法和甩法手册，通过一种独特的方法教你学习这种语言。你会迅速掌握Python的基础知识，然后转向持久存储、异常处理、Web开发、SQLite、数据加工和lGoogle App Engine。你还将学习如何为Android编写移动应用，这都要归功于Python为你赋予的强大能力。本书会提供充分并且完备的学习体验，帮助你成为一名真正的Python程序员。    作者巴里觉得你的时间相当宝贵，不应当过多地花费在与新概念的纠缠之中。通过应用认知科学和学习理论的最新研究成果，《Head First Python(中文版)》可以让你投入一个需要多感官参与的学习体验，这本书采用丰富直观的形式使你的大脑真正开动起来，而不是长篇累牍地说教，让你昏昏欲睡。,中国电力出版社,68.00元
+机器学习系统设计,|[德] Willi Richert,Luis Pedro Coelho|,|如今，机器学习正在互联网上下掀起热潮，而Python则是非常适合开发机器学习系统的一门优秀语言。作为动态语言，它支持快速探索和实验，并且针对Python的机器学习算法库的数量也与日俱增。本书最大的特色，就是结合实例分析教会读者如何通过机器学习解决实际问题。
+本书将向读者展示如何从原始数据中发现模式，首先从Python与机器学习的关系讲起，再介绍一些库，然后就开始基于数据集进行比较正式的项目开发了，涉及建模、推荐及改进，以及声音与图像处理。通过流行的开源库，我们可以掌握如何高效处理文本、图片和声音。同时，读者也能掌握如何评估、比较和选择适用的机器学习技术。
+举几个例子，我们会介绍怎么把StackOverflow的回答按质量高低进行分类，怎么知道某个音乐文件是爵士风格，还是重金属摇滚风格。另外，本书还涵盖了主题建模、购物习性分析及云计算等高级内容。总之，通过学习本书，读者可以掌握构建自己所需系统的各方面知识，并且学以致用，解决自己面临的现实问题。
+读者只要具有一定的Python编程经验，能够自己安装和使用开源库，就足够了，即使对机器学习一点了解都没有也没关系。本书不会讲机器学习算法背后的数学。|,人民邮电出版社,CNY 49.00
+Python Cookbook,|Alex Martelli,Anna Ravenscroft,David Ascher|,|本书介绍了Python应用在各个领域中的一些使用技巧和方法，从最基本的字符、文件序列、字典和排序，到进阶的面向对象编程、数据库和数据持久化、 XML处理和Web编程，再到比较高级和抽象的描述符、装饰器、元类、迭代器和生成器，均有涉及。书中还介绍了一些第三方包和库的使用，包括 Twisted、GIL、PyWin32等。本书覆盖了Python应用中的很多常见问题，并提出了通用的解决方案。书中的代码和方法具有很强的实用性，可以方便地应用到实际的项目中，并产生立竿见影的效果。尤为难得的是，本书的各位作者都具有丰富的业界实践经验，因此，本书不仅给出了对各种问题的解决方案，同时还体现了很多专家的思维方式和良好的编程习惯，与具体的细节性知识相比，这部分内容无疑是本书的精华。
+本书适合具有一定Python基础的读者阅读参考。|,人民邮电出版社,99.00元
+Learning Python,Mark Lutz,|Amazon.com Review
+The authors of Learning Python show you enough essentials of the Python scripting language to enable you to begin solving problems right away, then reveal more powerful aspects of the language one at a time. This approach is sure to appeal to programmers and system administrators who have urgent problems and a preference for learning by semi-guided experimentation.
+First off, Learning Python shows the relationships among Python scripts and their interpreter (in a mostly platform-neutral way). Then, the authors address the mechanics of the language itself, providing illustrations of how Python conceives of numbers, strings, and other objects as well as the operators you use to work with them. Dictionaries, lists, tuples, and other data structures specific to Python receive plenty of attention including complete examples.
+Authors Mark Lutz and David Ascher build on that fundamental information in their discussions of functions and modules, which evolve into coverage of namespaces, classes, and the object-oriented aspects of Python programming. There's also information on creating graphical user interfaces (GUIs) for Python applications with Tkinter.
+In addition to its careful expository prose, Learning Python includes exercises that both test your Python skills and help reveal more elusive truths about the language. --This text refers to an out of print or unavailable edition of this title.
+Review
+As a book for programmers who want to learn Python, it does a very good job. The coverage is informative and well order; making it easy to find what you're looking for. Overall, if you do some work with Python, you will benefit from owning this book. " - Sam Smith, news@UK, March "This book is a good example of Python culture, in the clarity of its text as much as in the quality of its code. Anyhone working their way through it will have a solid foundation upon which to explore Python's potential. Highly recommended." - Ivan Uemilianin, CVu, October 2004 --This text refers to the Paperback edition.|,O'Reilly Media,USD 54.99
+Python金融大数据分析,[德] 伊夫·希尔皮斯科,|唯一一本详细讲解使用Python分析处理金融大数据的专业图书；金融应用开发领域从业人员必读。
+Python凭借其简单、易读、可扩展性以及拥有巨大而活跃的科学计算社区，在需要分析、处理大量数据的金融行业得到了广泛而迅速的应用，并且成为该行业开发核心应用的首选编程语言。《Python金融大数据分析》提供了使用Python进行数据分析，以及开发相关应用程序的技巧和工具。
+《Python金融大数据分析》总计分为3部分，共19章，第1部分介绍了Python在金融学中的应用，其内容涵盖了Python用于金融行业的原因、Python的基础架构和工具，以及Python在计量金融学中的一些具体入门实例；第2部分介绍了金融分析和应用程序开发中最重要的Python库、技术和方法，其内容涵盖了Python的数据类型和结构、用matplotlib进行数据可视化、金融时间序列数据处理、高性能输入\/输出操作、高性能的Python技术和库、金融学中需要的多种数学工具、随机数生成和随机过程模拟、Python统计学应用、Python和Excel的集成、Python面向对象编程和GUI的开发、Python与Web技术的集成，以及基于Web应用和Web服务的开发；第3部分关注的是蒙特卡洛模拟期权与衍生品定价实际应用的开发工作，其内容涵盖了估值框架的介绍、金融模型的模拟、衍生品的估值、投资组合的估值、波动率期权等知识。
+《Python金融大数据分析》适合对使用Python进行大数据分析、处理感兴趣的金融行业开发人员阅读。|,人民邮电出版社,CNY 99.00

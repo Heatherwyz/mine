@@ -1,0 +1,5 @@
+Tue, 20 Mar 2018 11:00:52 do_logging.py[line:40]     DEBUG it's debug msg
+Tue, 20 Mar 2018 11:00:52 do_logging.py[line:43]     INFO it's info msg
+Tue, 20 Mar 2018 11:00:52 do_logging.py[line:46]     WARNING it's warning msg
+Tue, 20 Mar 2018 11:00:52 do_logging.py[line:49]     ERROR it's error msg
+Tue, 20 Mar 2018 11:00:52 do_logging.py[line:52]     CRITICAL it's fuck msg

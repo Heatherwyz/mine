@@ -1,0 +1,94 @@
+{
+  "uid" : "fdf8da7159335f8f",
+  "name" : "TestMessageCenter.test_7",
+  "fullName" : "test_wyz1.TestMessageCenter.test_7",
+  "historyId" : "181cfcb1a2e51070a2d4bd70c961ed2d",
+  "time" : {
+    "start" : 1545213246678,
+    "stop" : 1545213246946,
+    "duration" : 268
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\n  - 订阅失败，请重新退订\n  + 订阅成功",
+  "statusTrace" : "self = <test_wyz1.TestMessageCenter object at 0x00000000044B4438>\n\n    @pytest.mark.run(order=7)\n    @allure.step(title='同花顺理财开关打开')\n    def test_7(self):\n        global driver\n        # 点击同花顺理财进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[3]/div/label/i\").click()\n        thslcmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"同花顺理财\" + thslcmsg1)\n>       assert thslcmsg1 == \"订阅成功\"\nE       AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\nE         - 订阅失败，请重新退订\nE         + 订阅成功\n\ntest_wyz1.py:79: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\n  - 订阅失败，请重新退订\n  + 订阅成功",
+    "statusTrace" : "self = <test_wyz1.TestMessageCenter object at 0x00000000044B4438>\n\n    @pytest.mark.run(order=7)\n    @allure.step(title='同花顺理财开关打开')\n    def test_7(self):\n        global driver\n        # 点击同花顺理财进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[3]/div/label/i\").click()\n        thslcmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"同花顺理财\" + thslcmsg1)\n>       assert thslcmsg1 == \"订阅成功\"\nE       AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\nE         - 订阅失败，请重新退订\nE         + 订阅成功\n\ntest_wyz1.py:79: AssertionError",
+    "steps" : [ {
+      "name" : "同花顺理财开关打开",
+      "time" : {
+        "start" : 1545213246679,
+        "stop" : 1545213246829,
+        "duration" : 150
+      },
+      "status" : "failed",
+      "statusMessage" : "self = <test_wyz1.TestMessageCenter object at 0x00000000044B4438>\n\n    @pytest.mark.run(order=7)\n    @allure.step(title='同花顺理财开关打开')\n    def test_7(self):\n        global driver\n        # 点击同花顺理财进行订阅\n        driver.find_element_by_xpath(\"//*[@id=\\\"customSetColumn\\\"]/div/ul/li[3]/div/label/i\").click()\n        thslcmsg1 = driver.find_element_by_class_name(\"setTipAlertCon\").get_attribute(\"innerText\")\n        print(\"同花顺理财\" + thslcmsg1)\n>       assert thslcmsg1 == \"订阅成功\"\nE       AssertionError: assert '订阅失败，请重新退订' == '订阅成功'\nE         - 订阅失败，请重新退订\nE         + 订阅成功\n\ntest_wyz1.py:79: AssertionError",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "mobile-10-24-51"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7184-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestMessageCenter.test_7"
+  }, {
+    "name" : "package",
+    "value" : "test_wyz1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fdf8da7159335f8f.json",
+  "parameterValues" : [ ]
+}

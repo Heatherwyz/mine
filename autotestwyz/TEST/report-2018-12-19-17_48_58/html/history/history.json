@@ -1,0 +1,821 @@
+{
+  "ef05da990403ce780f9b8a2fe2ec13fb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3b0f6a1556023786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212984800,
+        "stop" : 1545212986926,
+        "duration" : 2126
+      }
+    } ]
+  },
+  "3c681808c286ea6778050ef3ffa62618" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7142451d95815d79",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212980582,
+        "stop" : 1545212982705,
+        "duration" : 2123
+      }
+    } ]
+  },
+  "c536966279ec27eb36aa185182a9a969" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "710646dda402c07a",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customSetColumn\"]/div[3]/div/div[1]/span/a[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213061953,
+        "stop" : 1545213072210,
+        "duration" : 10257
+      }
+    } ]
+  },
+  "fd74d37e6d4e0c4e8312efb46b793788" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4115304a7709022",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@type='text']\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213000715,
+        "stop" : 1545213010821,
+        "duration" : 10106
+      }
+    } ]
+  },
+  "72662bd11ae37a029681a00463f5dfd9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de099b68808f926d",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 459). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212989436,
+        "stop" : 1545212989603,
+        "duration" : 167
+      }
+    } ]
+  },
+  "57cdc1ef023a1b4fb35a60f00d1a05b9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d905d03e2952f9d7",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 404). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212989284,
+        "stop" : 1545212989433,
+        "duration" : 149
+      }
+    } ]
+  },
+  "cc6d70280a7f17d7de395443ab060d9c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57477b2d00da7399",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545213082471,
+        "stop" : 1545213085547,
+        "duration" : 3076
+      }
+    } ]
+  },
+  "d060de9a8fe530c94c8e8e61f3994125" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e0ebf12149babce",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 514). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212989737,
+        "stop" : 1545212989926,
+        "duration" : 189
+      }
+    } ]
+  },
+  "298d3d72d2d592ced6938852e2b67de3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c369c0e54e4bc4bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212959019,
+        "stop" : 1545212961153,
+        "duration" : 2134
+      }
+    } ]
+  },
+  "c7b8a6c963262368ca3491065d5a7f6b" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "983017c93f29e091",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+      "time" : {
+        "start" : 1545213072212,
+        "stop" : 1545213072285,
+        "duration" : 73
+      }
+    } ]
+  },
+  "a6a1e0d3d49ff035061c584de93618bb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "917ecb64bd910878",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div/div[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213031106,
+        "stop" : 1545213041228,
+        "duration" : 10122
+      }
+    } ]
+  },
+  "6fe6decec235e8368886b40ab3e02cc7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9772d136adef5c46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212954774,
+        "stop" : 1545212956898,
+        "duration" : 2124
+      }
+    } ]
+  },
+  "89deaee990897d92e41e6605a6a794b9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "88920a5daa155de7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212939458,
+        "stop" : 1545212945531,
+        "duration" : 6073
+      }
+    } ]
+  },
+  "c4c3112521837242021528936978c790" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6735f963583554ee",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div[2]/div/span[3]/ins\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213010824,
+        "stop" : 1545213020964,
+        "duration" : 10140
+      }
+    } ]
+  },
+  "e3777824e863fc7579c07d8db5878f8a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c6e472678052991d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212975754,
+        "stop" : 1545212977786,
+        "duration" : 2032
+      }
+    } ]
+  },
+  "a9298250a66e8f61e54cf09a59c8f9c9" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d8bb2693d6a2868c",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customSetColumn\"]/div[2]/ul/li[2]/p/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213051569,
+        "stop" : 1545213061944,
+        "duration" : 10375
+      }
+    } ]
+  },
+  "6074645a23a9ae3bc6e588197ed00e5b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3e7a021576b03f0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212986928,
+        "stop" : 1545212989023,
+        "duration" : 2095
+      }
+    } ]
+  },
+  "f39d6095600053bb837e53f9010e4472" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9edc5a770db6a9fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212967419,
+        "stop" : 1545212971547,
+        "duration" : 4128
+      }
+    } ]
+  },
+  "6d6cbd23a8de1182b416619ea8a4f4a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ba2f0386b526ee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212961155,
+        "stop" : 1545212963236,
+        "duration" : 2081
+      }
+    } ]
+  },
+  "2731cb5beab9de3901692c0265ebb4e6" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a38f184d1912d42",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"fastread\"]/div/div/div[2]/div[2]/div\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213072287,
+        "stop" : 1545213082432,
+        "duration" : 10145
+      }
+    } ]
+  },
+  "2ebe69ee7a963d37ce67ed739292e6b1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc3a4f55ee731ffb",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '退订成功' == '订阅成功'\n  - 退订成功\n  ? -\n  + 订阅成功\n  ?  +",
+      "time" : {
+        "start" : 1545212989025,
+        "stop" : 1545212989281,
+        "duration" : 256
+      }
+    } ]
+  },
+  "40e0342b73e15bb4bd371e9e630776ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "451547e2ae8ebf43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212945534,
+        "stop" : 1545212950513,
+        "duration" : 4979
+      }
+    } ]
+  },
+  "fd27f26e1c3bb225d9d2420766ee7985" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84d17638665e18d8",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[2]/div[3]/div[3]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213041231,
+        "stop" : 1545213051390,
+        "duration" : 10159
+      }
+    } ]
+  },
+  "c6df80b7073c7d1416e79bdf70f2c9f9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a97f02d4f99b0f5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212965371,
+        "stop" : 1545212967417,
+        "duration" : 2046
+      }
+    } ]
+  },
+  "b3c00cecd7805404cfd481d739213cd" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dba761141a6c02cf",
+      "status" : "failed",
+      "statusDetails" : "ElementNotVisibleException: Message: element not visible\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212990229,
+        "stop" : 1545212990363,
+        "duration" : 134
+      }
+    } ]
+  },
+  "283b7d8be96ed95c63b7a32c02cf09aa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e263655e9d570b32",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212977788,
+        "stop" : 1545212978431,
+        "duration" : 643
+      }
+    } ]
+  },
+  "dc60baff1b09522ddae4532292c2b0f3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f0f3eb827451e34",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i>...</i> is not clickable at point (108, 621). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212990061,
+        "stop" : 1545212990227,
+        "duration" : 166
+      }
+    } ]
+  },
+  "17dfff6d61d4db9c416290c5d89e684d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a8a2b16ec8a78ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212978433,
+        "stop" : 1545212980580,
+        "duration" : 2147
+      }
+    } ]
+  },
+  "23ceb2db98499f4d0baa2040fba831e7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a44d4eb0bf05f8cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212963239,
+        "stop" : 1545212965369,
+        "duration" : 2130
+      }
+    } ]
+  },
+  "887e83e4b2040a915356788e3f938d1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "252217a710765953",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div/div/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545213020967,
+        "stop" : 1545213031103,
+        "duration" : 10136
+      }
+    } ]
+  },
+  "be7feb9030065cbf1ac5e88aece33a31" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6388a23e13a3f4df",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+      "time" : {
+        "start" : 1545213051392,
+        "stop" : 1545213051565,
+        "duration" : 173
+      }
+    } ]
+  },
+  "3b8cb778e9ed3fd4ac1ed6ceb229e6e8" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "417f9b90d7951743",
+      "status" : "failed",
+      "statusDetails" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section/div/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212990547,
+        "stop" : 1545213000712,
+        "duration" : 10165
+      }
+    } ]
+  },
+  "41e178dcdb9e9cd242899d2db844bca9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c37a0434af2e67f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212952669,
+        "stop" : 1545212954772,
+        "duration" : 2103
+      }
+    } ]
+  },
+  "f712833e80422f781c1d1c9bcb92ab06" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "588d2204b7ca0c95",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 459). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212989606,
+        "stop" : 1545212989734,
+        "duration" : 128
+      }
+    } ]
+  },
+  "c0ad5bf7702aa9aaebc2333d994b3611" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aeda4a59fce1969f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212982708,
+        "stop" : 1545212984797,
+        "duration" : 2089
+      }
+    } ]
+  },
+  "ce84a709b4b1c5c5d37edbfe460c972c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f5ef58f1cc1063f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212956900,
+        "stop" : 1545212959016,
+        "duration" : 2116
+      }
+    } ]
+  },
+  "38cbbf06732c1a5c087587bac833fb3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fc6f2a5a4fac3316",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 514). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212989929,
+        "stop" : 1545212990059,
+        "duration" : 130
+      }
+    } ]
+  },
+  "2debb68fe4ace3db3af28994dfd74003" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c05c852aed2d8875",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+      "time" : {
+        "start" : 1545213082435,
+        "stop" : 1545213082469,
+        "duration" : 34
+      }
+    } ]
+  },
+  "cd5475d5b8839cfce8bc20498632855a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a775fbd73bb9b2a4",
+      "status" : "failed",
+      "statusDetails" : "WebDriverException: Message: unknown error: Element <div>...</div> is not clickable at point (451, 669). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "time" : {
+        "start" : 1545212990366,
+        "stop" : 1545212990544,
+        "duration" : 178
+      }
+    } ]
+  },
+  "f9da83bfe628d49eab4817a31442b5be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67c13b5652cebf91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212973656,
+        "stop" : 1545212975752,
+        "duration" : 2096
+      }
+    } ]
+  },
+  "b72633f6d1eac9147a55b340ab1eba01" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c64316eaaddf3706",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212971549,
+        "stop" : 1545212973654,
+        "duration" : 2105
+      }
+    } ]
+  },
+  "12ea6c6148fa9bc608d8a6d80d1e2ee2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a38aa592d6e0ca2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545212950514,
+        "stop" : 1545212952667,
+        "duration" : 2153
+      }
+    } ]
+  }
+}

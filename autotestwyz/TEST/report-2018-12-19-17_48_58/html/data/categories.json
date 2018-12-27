@@ -1,0 +1,329 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert '退订成功' == '订阅成功'\n  - 退订成功\n  ? -\n  + 订阅成功\n  ?  +",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_21",
+        "uid" : "fc3a4f55ee731ffb",
+        "parentUid" : "43cdac89c8f7e12e5ec32aee0b7aba65",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989025,
+          "stop" : 1545212989281,
+          "duration" : 256
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "43cdac89c8f7e12e5ec32aee0b7aba65"
+    }, {
+      "name" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 404). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_22",
+        "uid" : "d905d03e2952f9d7",
+        "parentUid" : "1e430d5dc9ab42eba5e761526b7b7478",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989284,
+          "stop" : 1545212989433,
+          "duration" : 149
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e430d5dc9ab42eba5e761526b7b7478"
+    }, {
+      "name" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 459). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_23",
+        "uid" : "de099b68808f926d",
+        "parentUid" : "8345eaa9c0de864afd39d0c9ab69891d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989436,
+          "stop" : 1545212989603,
+          "duration" : 167
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_24",
+        "uid" : "588d2204b7ca0c95",
+        "parentUid" : "8345eaa9c0de864afd39d0c9ab69891d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989606,
+          "stop" : 1545212989734,
+          "duration" : 128
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8345eaa9c0de864afd39d0c9ab69891d"
+    }, {
+      "name" : "WebDriverException: Message: unknown error: Element <i></i> is not clickable at point (487, 514). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_25",
+        "uid" : "6e0ebf12149babce",
+        "parentUid" : "bb21b33502947ea9264c93b54da40cb2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989737,
+          "stop" : 1545212989926,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_26",
+        "uid" : "fc6f2a5a4fac3316",
+        "parentUid" : "bb21b33502947ea9264c93b54da40cb2",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212989929,
+          "stop" : 1545212990059,
+          "duration" : 130
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb21b33502947ea9264c93b54da40cb2"
+    }, {
+      "name" : "WebDriverException: Message: unknown error: Element <i>...</i> is not clickable at point (108, 621). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_27",
+        "uid" : "2f0f3eb827451e34",
+        "parentUid" : "f7f5361eba9e3b7000d7dbddd216b4a5",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212990061,
+          "stop" : 1545212990227,
+          "duration" : 166
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f7f5361eba9e3b7000d7dbddd216b4a5"
+    }, {
+      "name" : "ElementNotVisibleException: Message: element not visible\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_28",
+        "uid" : "dba761141a6c02cf",
+        "parentUid" : "4e5d1099888c5ea9bab5b04c312662e1",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212990229,
+          "stop" : 1545212990363,
+          "duration" : 134
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e5d1099888c5ea9bab5b04c312662e1"
+    }, {
+      "name" : "WebDriverException: Message: unknown error: Element <div>...</div> is not clickable at point (451, 669). Other element would receive the click: <div class=\"setTipAlert\">...</div>\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_29",
+        "uid" : "a775fbd73bb9b2a4",
+        "parentUid" : "e1405a35a23e8b5e3a615906b6dbdd63",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212990366,
+          "stop" : 1545212990544,
+          "duration" : 178
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1405a35a23e8b5e3a615906b6dbdd63"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section/div/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_30",
+        "uid" : "417f9b90d7951743",
+        "parentUid" : "6b53d0a931157ad0d1c344e07e529899",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545212990547,
+          "stop" : 1545213000712,
+          "duration" : 10165
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6b53d0a931157ad0d1c344e07e529899"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@type='text']\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_31",
+        "uid" : "f4115304a7709022",
+        "parentUid" : "bd262a97a978e9ee64b716ee2c9bb310",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213000715,
+          "stop" : 1545213010821,
+          "duration" : 10106
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd262a97a978e9ee64b716ee2c9bb310"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div[2]/div/span[3]/ins\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_32",
+        "uid" : "6735f963583554ee",
+        "parentUid" : "6bb14854e923e29ad26b33d14c1253f3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213010824,
+          "stop" : 1545213020964,
+          "duration" : 10140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6bb14854e923e29ad26b33d14c1253f3"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div/div/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_33",
+        "uid" : "252217a710765953",
+        "parentUid" : "23134bd14a3a491f2a179a04300c0b2c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213020967,
+          "stop" : 1545213031103,
+          "duration" : 10136
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "23134bd14a3a491f2a179a04300c0b2c"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[3]/div/div[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_34",
+        "uid" : "917ecb64bd910878",
+        "parentUid" : "4ef99fc0de2445a7e42e4d15971d7e60",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213031106,
+          "stop" : 1545213041228,
+          "duration" : 10122
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4ef99fc0de2445a7e42e4d15971d7e60"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/section[2]/div[3]/div[3]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_35",
+        "uid" : "84d17638665e18d8",
+        "parentUid" : "15f720d05624c72a36f4771dd37ce7cb",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213041231,
+          "stop" : 1545213051390,
+          "duration" : 10159
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "15f720d05624c72a36f4771dd37ce7cb"
+    }, {
+      "name" : "AssertionError: assert 'data:,' == 'https://eq.10jqka.com.cn/newscenter/main.html'\n  - data:,\n  + https://eq.10jqka.com.cn/newscenter/main.html",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_36",
+        "uid" : "6388a23e13a3f4df",
+        "parentUid" : "680a3424c30ffe18d46f4f2e87187560",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213051392,
+          "stop" : 1545213051565,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_39",
+        "uid" : "983017c93f29e091",
+        "parentUid" : "680a3424c30ffe18d46f4f2e87187560",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213072212,
+          "stop" : 1545213072285,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "TestMessageCenter.test_41",
+        "uid" : "c05c852aed2d8875",
+        "parentUid" : "680a3424c30ffe18d46f4f2e87187560",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213082435,
+          "stop" : 1545213082469,
+          "duration" : 34
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "680a3424c30ffe18d46f4f2e87187560"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customSetColumn\"]/div[2]/ul/li[2]/p/span[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_37",
+        "uid" : "d8bb2693d6a2868c",
+        "parentUid" : "25cb3c3fe8e3bcef04e52671650c3c12",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213051569,
+          "stop" : 1545213061944,
+          "duration" : 10375
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25cb3c3fe8e3bcef04e52671650c3c12"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"customSetColumn\"]/div[3]/div/div[1]/span/a[2]\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_38",
+        "uid" : "710646dda402c07a",
+        "parentUid" : "8684eec23f47774b519c0f7786c27841",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213061953,
+          "stop" : 1545213072210,
+          "duration" : 10257
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8684eec23f47774b519c0f7786c27841"
+    }, {
+      "name" : "NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"fastread\"]/div/div/div[2]/div[2]/div\"}\n  (Session info: chrome=71.0.3578.98)\n  (Driver info: chromedriver=2.37.544315 (730aa6a5fdba159ac9f4c1e8cbc59bf1b5ce12b7),platform=Windows NT 6.1.7601 SP1 x86_64)\n",
+      "children" : [ {
+        "name" : "TestMessageCenter.test_40",
+        "uid" : "a38f184d1912d42",
+        "parentUid" : "169f53cf26eeb5b1e32f0ffdd0d4f183",
+        "status" : "failed",
+        "time" : {
+          "start" : 1545213072287,
+          "stop" : 1545213082432,
+          "duration" : 10145
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "169f53cf26eeb5b1e32f0ffdd0d4f183"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
